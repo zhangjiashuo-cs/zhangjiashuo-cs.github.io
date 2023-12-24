@@ -1,293 +1,250 @@
 <html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <meta name="keywords" content="Jiashuo Zhang">
-        <meta name="keywords" content="Zhang">
-        <meta name="keywords" content="Jiashuo">
-        <meta name="keywords" content="Peking University">
-        <meta name="keywords" content="PKU">
-        <meta name="description" content="Jiashuo Zhang's Homepage">
-        <meta http-equiv="Expires" content="0">
-        <meta http-equiv="Pragma" content="no-cache">
-        <meta http-equiv="Cache-control" content="no-cache,must-revalidate">
-        <meta http-equiv="Cache" content="no-cache">
-        <title>Jiashuo Zhang's Homepage</title>
-        <style>
-        p.ex {
-            width: 1200px;
-            text-indent: 30px;
-            line-height: 150%
-        }
-        body {
-  font-family: Arial;
-  margin: 0;
-  line-height: 150%;
-}
 
-* {
-  box-sizing: border-box;
-}
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="keywords" content="Jiashuo Zhang">
+  <meta name="keywords" content="Zhang">
+  <meta name="keywords" content="Jiashuo">
+  <meta name="keywords" content="Peking University">
+  <meta name="keywords" content="PKU">
+  <meta name="description" content="Jiashuo Zhang's Homepage">
+  <meta http-equiv="Expires" content="0">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Cache-control" content="no-cache,must-revalidate">
+  <meta http-equiv="Cache" content="no-cache">
+  <title>Jiashuo Zhang's Homepage</title>
+  <style>
+    p.ex {
+      width: 1200px;
+      text-indent: 30px;
+      line-height: 150%
+    }
 
-img {
-  vertical-align: middle;
-}
+    body {
+      font-family: Arial;
+      margin: 0;
+      line-height: 150%;
+    }
 
-/* Position the image container (needed to position the left and right arrows) */
-.container {
-  position: relative;
-}
+    * {
+      box-sizing: border-box;
+    }
 
-/* Hide the images by default */
-.mySlides {
-  display: none;
-}
+    img {
+      vertical-align: middle;
+    }
 
-/* Add a pointer when hovering over the thumbnail images */
-.cursor {
-  cursor: pointer;
-}
+    /* Position the image container (needed to position the left and right arrows) */
+    .container {
+      position: relative;
+    }
 
-/* Next & previous buttons */
-.prev,
-.next {
-  cursor: pointer;
-  position: absolute;
-  top: 40%;
-  width: auto;
-  padding: 16px;
-  margin-top: -50px;
-  color: white;
-  font-weight: bold;
-  font-size: 20px;
-  border-radius: 0 3px 3px 0;
-  user-select: none;
-  -webkit-user-select: none;
-}
+    /* Hide the images by default */
+    .mySlides {
+      display: none;
+    }
 
-/* Position the "next button" to the right */
-.next {
-  right: 60%;
-  border-radius: 3px 0 0 3px;
-}
-.prev {
-  left: 0;
-  border-radius: 3px 0 0 3px;
-}
+    /* Add a pointer when hovering over the thumbnail images */
+    .cursor {
+      cursor: pointer;
+    }
 
-/* On hover, add a black background color with a little bit see-through */
-.prev:hover,
-.next:hover {
-  background-color: rgba(0, 0, 0, 0.8);
-}
+    /* Next & previous buttons */
+    .prev,
+    .next {
+      cursor: pointer;
+      position: absolute;
+      top: 40%;
+      width: auto;
+      padding: 16px;
+      margin-top: -50px;
+      color: white;
+      font-weight: bold;
+      font-size: 20px;
+      border-radius: 0 3px 3px 0;
+      user-select: none;
+      -webkit-user-select: none;
+    }
 
-/* Number text (1/3 etc) */
-.numbertext {
-  color: #f2f2f2;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
-}
+    /* Position the "next button" to the right */
+    .next {
+      right: 60%;
+      border-radius: 3px 0 0 3px;
+    }
 
-/* Container for image text */
-.caption-container {
-  text-align: center;
-  background-color: rgb(52, 60, 73);
-  padding: 2px 16px;
-  color: white;
-  width: 40%;
-  height: fit-content;
-}
+    .prev {
+      left: 0;
+      border-radius: 3px 0 0 3px;
+    }
 
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
+    /* On hover, add a black background color with a little bit see-through */
+    .prev:hover,
+    .next:hover {
+      background-color: rgba(0, 0, 0, 0.8);
+    }
 
-/* columns side by side */
-.column {
-  float: left;
-  width: 5.7%;
-}
+    /* Number text (1/3 etc) */
+    .numbertext {
+      color: #f2f2f2;
+      font-size: 12px;
+      padding: 8px 12px;
+      position: absolute;
+      top: 0;
+    }
 
-/* Add a transparency effect for thumnbail images */
-.demo {
-  opacity: 0.6;
-}
+    /* Container for image text */
+    .caption-container {
+      text-align: center;
+      background-color: rgb(52, 60, 73);
+      padding: 2px 16px;
+      color: white;
+      width: 40%;
+      height: fit-content;
+    }
 
-.active,
-.demo:hover {
-  opacity: 1;
-}
-</style>
-        </style>
-    </head>
-    <body>
-        <table height="160" >
-            <tbody>
-                <tr>
-                    <td width="180" rowspan="2">
-                        <img border="0" src="./img/zhangjiashuo.jpg" height="200">
-                    </td>
-                    <td rowspan="2">
-                        <h2>Jiashuo Zhang (张家硕)</h2>
-                        <strong>Ph.D. Student</strong>
-                        <p>
-                            <a href="http://brc.pku.edu.cn/">Blockchain Research Center</a>, School of Computer Science, Peking University.<br>
-                            <strong>Office</strong>: Room 1533, Science Building 1, Peking University, Beijing.<br>
-                            <strong>Email</strong>: zhangjiashuo AT pku.edu.cn <br>
-                        </p>
-                        
-                    </td>
-                </tr>
-            </tbody>
-        </table>
-        <hr>
-        <h2><a name="Education" id="Education">Education</a></h2>
-        <ul>
-            <li>Sept. 2021 - Present, Ph.D. Student in Computer Software and Theory (advisor: Prof. <a href="https://cs.pku.edu.cn/info/1057/1267.htm">Zhong Chen</a>), Peking University.</li>
-            <li>Sept. 2017 - Jul. 2021, Bachelor in Computer Science, Peking University.</li>
-        </ul>
-        <hr>
-        <h2><a name="Interests" id="Interests">Research Interests</a></h2>
-        <ul>
-            <li>Blockchain Security & Privacy</li>
-            <li>Blockchain-Oriented Software Engineering</li>
-        </ul>
-        <hr>
-        <h2><a name="Publications">Publications</a></h2>
-        <div class="pubstyle">
-            <ul>
-              <a id="icse-crypto"></a>
-                <li><b> When Contracts Meets Crypto: Exploring Developers' Struggles with Ethereum Cryptographic APIs</b>.
-                    <br> <b><font color="#0000FF">Jiashuo Zhang</font></b>, Jiachi Chen, Zhiyuan Wan, Ting Chen, Jianbo Gao and Zhong Chen.</br>
-                    The 46th International Conference on Software Engineering (<b>ICSE'24</b>), 2024.
-                </li>
-                <br>
-                <a id="jpdc-fastblock"></a>
-                <li><b>Accelerating Block Lifecycle on Blockchain via HardwareTransactional Memory</b>.
-                    <br> Yue Li, Han Liu, Jianbo Gao, <b><font color="#0000FF">Jiashuo Zhang</font></b>, Zhi Guan and Zhong Chen.</br>
-                    Journal of Parallel and Distributed Computing (<b>JPDC'23</b>), 2023.
-                </li>
-                <br>
-                <a id="acsac-hades"></a>
-                <li><b> Hades: Practical Decentralized Identity with Full
-                  Accountability and Fine-grained Sybil-resistance</b>.
-                    <br> Ke Wang, Jianbo Gao, Qiao Wang, <b><font color="#0000FF">Jiashuo Zhang</font></b>, Yue Li, Zhi Guan and Zhong Chen.</br>
-                    The 39th Annual Computer Security Applications Conference (<b>ACSAC'23</b>), 2023.
-                </li>
-                <br>
-                <a id="icse-Siguard"></a>
-                <li><b>Siguard: Detecting Signature-Related Vulnerabilities in Smart Contracts</b>.
-                    <br> <b><font color="#0000FF">Jiashuo Zhang</font></b>, Yue Li, Jianbo Gao, Zhi Guan and Zhong Chen.</br>
-                    The 45th IEEE/ACM International Conference on Software Engineering (<b>ICSE'23</b>), 2023.
-                </li>
-                <br>
-                <a id="ieee-dapps"></a>
-                <li><b>Didapper: Practical and Auditable On-Chain Identity Service for Decentralized Applications</b>.
-                    <br> Libin Xia, <b><font color="#0000FF">Jiashuo Zhang</font></b>, Xihan Zhang, Yue Li, Jianbo Gao, Zhi Guan and Zhong Chen.</br>
-                    The 5th IEEE International Conference on Decentralized Applications and Infrastructures (<b>IEEE DAPPS'23</b>), 2023.
-                </li>
-                <br>
-                <a id="ieee-SMC"></a>
-                <li><b>TDID: Transparent and Efficient Decentralized Identity Management with Blockchain</b>.
-                    <br> Jiakun Hao, Jianbo Gao, Peng Xiang, <b><font color="#0000FF">Jiashuo Zhang</font></b>, Ziming Chen, Hao Hu and Zhong Chen.</br>
-                    IEEE Conference on Systems, Man, and Cybernetics (<b>SMC'23</b>), 2023.
-                </li>
-                <br>
-                <a id="ase-Xscope"></a>
-                <li><b>Xscope: Hunting for Cross-Chain Bridge Attacks</b>.
-                    <br> <b><font color="#0000FF">Jiashuo Zhang</font></b>, Jianbo Gao, Yue Li, Ziming Chen, Zhi Guan and Zhong Chen.</br>
-                    The 37th IEEE/ACM International Conference on Automated Software Engineering (<b>ASE'22</b>), 2022.
-                </li>
-                <br>
-                <a id="icc-tbft"></a>
-                <li><b>TBFT: Efficient Byzantine Fault Tolerance Using Trusted Execution Environment</b>.
-                    <br> <b><font color="#0000FF">Jiashuo Zhang</font></b>, Jianbo Gao, Ke Wang, Zhenhao Wu, Yue Li, Zhi Guan and Zhong Chen.</br>
-                    The 56th IEEE International Conference on Communications (<b>ICC'22</b>), 2022.
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
 
-                </li>
-                <br>
-                <a id="jsjkx-reglang"></a>
-                <li><b>RegLang: A Smart Contract Programming Language for Regulation</b>.
-                    <br> Jianbo Gao, <b><font color="#0000FF">Jiashuo Zhang</font></b>, Qingshan Li and Zhong Chen.</br>
-                    Computer Science (In Chinese), 计算机科学, 2022.
-                </li>
-                <br>
-                <a id="jsjgc-regconflict"></a>
-                <li><b>Detection Method for Rule Conflicts in RegLang Regulatory Contracts </b>.
-                    <br> Jianbo Gao, <b><font color="#0000FF">Jiashuo Zhang</font></b>, Qingshan Li and Zhong Chen.</br>
-                    Computer Engineering (In Chinese), 计算机工程, 2022.
-                </li>
-                <br>
-                <a id="apin-dfhelper"></a>
-                <li><b>DFHelper: Help clients to participate in federated learning tasks</b>.
-                    <br>Zhenhao Wu, Jianbo Gao, <b><font color="#0000FF">Jiashuo Zhang</font></b>, Yue Li, Qingshan Li, Zhi Guan and Zhong Chen.</br>
-                    Applied Intelligence (<b>APIN</b>), 2022.
-                </li>
-                <br>
-                <a id="icbta-chaindb"></a>
-                <li><b>ChainDB: Ensuring Integrity of Querying Off-Chain Data on Blockchain</b>.
-                    <br>Jianbo Gao, <b><font color="#0000FF">Jiashuo Zhang</font></b>, Yue Li, Jiakun Hao, Ke Wang, Zhi Guan, ZhongChen.</br>
-                    The 5th International Conference on Blockchain Technology and Applications (<b>ICBTA'22</b>), 2022.
-                </li>
-                <br>
+    /* columns side by side */
+    .column {
+      float: left;
+      width: 5.7%;
+    }
 
-                <a id="icbta-pshard"></a>
-                <li><b>PShard: A Practical Sharding Protocol for Enterprise Blockchain</b>.
-                    <br> Jianbo Gao, <b><font color="#0000FF">Jiashuo Zhang</font></b>, Yue Li, Jiakun Hao, Ke Wang, Zhi Guan, ZhongChen.</br>
-                    The 5th International Conference on Blockchain Technology and Applications (<b>ICBTA'22</b>), 2022.
-                </li>
-                <br>
-                <a id="icsme-kaya"></a>
-                <li><b>Kaya: A Testing Framework for Blockchain-based Decentralized Applications</b>.
-                    <br> Zhenhao Wu, <b><font color="#0000FF">Jiashuo Zhang</font></b>, Jianbo Gao, Yue Li, Qingshan Li, Zhi Guan and Zhong Chen.</br>
-                    The 36th IEEE International Conference on Software Maintenance and Evolution (<b>ICSME'20</b>), 2020.
-                </li>
-                <br>
-                <a id="hoticn19-libra"></a>
-                <li><b>Performance Analysis of the Libra Blockchain: An Experimental Study</b>.
-                    <br> <b><font color="#0000FF">Jiashuo Zhang</font></b>, Jianbo Gao, Zhenhao Wu, Wentian Yan, Qize Wu, Qingshan Li and Zhong Chen.</br>
-                    The 2nd IEEE International Conference on Hot Information-Centric Networking (<b>HotICN'19</b>), Blockchain Track, Chongqing, China, 2019.
-                </li>
-                <br>
-            </ul>
-        </div>
-        <hr>
-        <h2><a name="Patents">Patents</a></h2>
-        <div class="pubstyle">
-            <ul>
-                <a id=""></a>
-                <li> 陈钟,李青山,高健博,任立峰,<b><font color="#0000FF">张家硕</font></b>.一种基于可信执行环境的新型拜占庭容错共识方法. (实审中)
-                </li>
-                <a id=""></a>
-                <li><b><font color="#0000FF">张家硕</font></b>,高健博,吴振豪,闫文添,任立峰,李青山,陈钟.一种针对智能合约行为的监管方法.
-                </li>
-                <a id=""></a>
-                <li>闫文添,高健博,吴振豪,<b><font color="#0000FF">张家硕</font></b>,任立峰,王昭,李青山,陈钟.一种智能合约安全增强方法.
-                </li>
-            </ul>
-        </div>
-        <hr>
-        <h2><a name="Awards" id="Awards">Honors and Awards</a></h2>
-        <ul>
-            <li>Ubiquant Scholarship, Peking University, 2023</li>
-            <li>Merit Student, Peking University, 2023</li>
-            <li>Yang Fuqing & Wang Yangyuan Academician Scholarship, Peking University, 2022 </li>
-            <li>Merit Student, Peking University, 2022</li>
-            <li>Merit Student, Peking University, 2020</li>
-            <li>The Third Prize of Peking University Scholarship, Peking University, 2020</li>
-        </ul>
-        <hr>
-        <h2><a name="TA" id="TA">Teaching Experience</a></h2>
-        <ul>
-            <li>Introduction to Information Security (Undergradate), TA, Fall 2022</li>
-            <li>Data Structures and Algorithms (Undergradate), TA, Spring 2022</li>
-            <li>Introduction to Information Security (Undergradate), TA, Fall 2021</li>
-        </ul>
-        <hr>
-        <!-- <h2><a name="TA" id="TA">Misc.</a></h2>
+    /* Add a transparency effect for thumnbail images */
+    .demo {
+      opacity: 0.6;
+    }
+
+    .active,
+    .demo:hover {
+      opacity: 1;
+    }
+  </style>
+  </style>
+</head>
+
+<body>
+  <table height="160">
+    <tbody>
+      <tr>
+        <td width="180" rowspan="2">
+          <img border="0" src="./img/zhangjiashuo.jpg" height="200">
+        </td>
+        <td rowspan="2">
+          <h2>Jiashuo Zhang (张家硕)</h2>
+          <strong>Ph.D. Student</strong>
+          <p>
+            <a href="http://brc.pku.edu.cn/">Blockchain Research Center</a>, School of Computer Science, Peking
+            University.<br>
+            <strong>Office</strong>: Room 1533, Science Building 1, Peking University, Beijing.<br>
+            <strong>Email</strong>: zhangjiashuo AT pku.edu.cn <br>
+          </p>
+
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+  <h2><a name="Education" id="Education">Education</a></h2>
+  <ul>
+    <li>Sept. 2021 - Present, Ph.D. Student in Computer Software and Theory (advisor: Prof. <a
+        href="https://cs.pku.edu.cn/info/1057/1267.htm">Zhong Chen</a>), Peking University.</li>
+    <li>Sept. 2017 - Jul. 2021, Bachelor in Computer Science, Peking University.</li>
+  </ul>
+  <hr>
+  <h2><a name="Interests" id="Interests">Research Interests</a></h2>
+  <ul>
+    <li><b>Blockchain-Oriented Software Engineering</b>: Vulnerability Detection; Software Anaysis/Testing; Domain Specific Language; Empirical Study</li>
+    <li><b>Security & Privacy of Web3 systems</b>: Decentralized Identity, Decentralized Application, Cross-Chain System</li>
+  </ul>
+  <hr>
+  <h2><a name="Publications"> Selected Publications </a> <a href="./publication.html" style="text-decoration: none;">
+      <span style="font-size: 75%; vertical-align: bottom;"> (Full List)</span>
+    </a></h2>
+  <div class="pubstyle">
+    <ul>
+      <a id="icse-crypto"></a>
+      <li><b> When Contracts Meets Crypto: Exploring Developers' Struggles with Ethereum Cryptographic APIs</b>.
+        <br> <b><font color="#0000FF">Jiashuo Zhang</font></b>, Jiachi Chen, Zhiyuan Wan, Ting Chen, Jianbo Gao and Zhong Chen.</br>
+        The 46th International Conference on Software Engineering (<b>ICSE'24</b>), 2024.
+      </li>
+      <br>
+      <a id="saner-crypto"></a>
+      <li><b> CRYPTCODER: An Automatic Code Generator for Cryptographic Tasks in Ethereum Smart Contracts</b>.
+        <br> Libin Xia, <b><font color="#0000FF">Jiashuo Zhang</font></b>, Che Wang, Zezhong Tan, Jianbo Gao, Zhi Guan and Zhong Chen. </br>
+        The 31th IEEE International Conference on Software Analysis, Evolution and Reengineering (<b>SANER'24</b>),
+        2024.
+      </li>
+      <br>
+      <a id="jpdc-fastblock"></a>
+      <li><b>Accelerating Block Lifecycle on Blockchain via HardwareTransactional Memory</b>.
+        <br> Yue Li, Han Liu, Jianbo Gao, <b><font color="#0000FF">Jiashuo Zhang</font> </b>, Zhi Guan and Zhong Chen.</br>
+        Journal of Parallel and Distributed Computing (<b>JPDC'23</b>), 2023.
+      </li>
+      <br>
+      <a id="acsac-hades"></a>
+      <li><b> Hades: Practical Decentralized Identity with Full
+          Accountability and Fine-grained Sybil-resistance</b>.
+        <br> Ke Wang, Jianbo Gao, Qiao Wang, <b><font color="#0000FF">Jiashuo Zhang</font></b>, Yue Li, Zhi Guan and Zhong Chen.</br>
+        The 39th Annual Computer Security Applications Conference (<b>ACSAC'23</b>), 2023.
+      </li>
+      <br>
+      <a id="icse-Siguard"></a>
+      <li><b>Siguard: Detecting Signature-Related Vulnerabilities in Smart Contracts</b>.
+        <br> <b> <font color="#0000FF">Jiashuo Zhang</font></b>, Yue Li, Jianbo Gao, Zhi Guan and Zhong Chen.</br>
+        The 45th IEEE/ACM International Conference on Software Engineering (<b>ICSE'23</b>), 2023.
+      </li>
+      <br>
+      <a id="ieee-dapps"></a>
+      <li><b>Didapper: Practical and Auditable On-Chain Identity Service for Decentralized Applications</b>.
+        <br> Libin Xia, <b><font color="#0000FF">Jiashuo Zhang</font></b>, Xihan Zhang, Yue Li, Jianbo Gao, Zhi Guan and Zhong Chen.</br>
+        The 5th IEEE International Conference on Decentralized Applications and Infrastructures (<b>IEEE DAPPS'23</b>),
+        2023.
+      </li>
+      <br>
+      <a id="ase-Xscope"></a>
+      <li><b>Xscope: Hunting for Cross-Chain Bridge Attacks</b>.
+        <br> <b><font color="#0000FF">Jiashuo Zhang</font></b>, Jianbo Gao, Yue Li, Ziming Chen, Zhi Guan and Zhong Chen.</br>
+        The 37th IEEE/ACM International Conference on Automated Software Engineering (<b>ASE'22</b>), 2022.
+      </li>
+      <br>
+      <a id="icc-tbft"></a>
+      <li><b>TBFT: Efficient Byzantine Fault Tolerance Using Trusted Execution Environment</b>.
+        <br> <font color="#0000FF">Jiashuo Zhang</font> </b>, Jianbo Gao, Ke Wang, Zhenhao Wu, Yue Li, Zhi Guan and Zhong Chen.</br>
+        The 56th IEEE International Conference on Communications (<b>ICC'22</b>), 2022.
+      </li>
+      <br>
+      <a id="icsme-kaya"></a>
+      <li><b>Kaya: A Testing Framework for Blockchain-based Decentralized Applications</b>.
+        <br> Zhenhao Wu, <b><font color="#0000FF">Jiashuo Zhang</font></b>, Jianbo Gao, Yue Li, Qingshan Li, Zhi Guan and Zhong Chen.</br>
+        The 36th IEEE International Conference on Software Maintenance and Evolution (<b>ICSME'20</b>), 2020.
+      </li>
+      <br>
+    </ul>
+  </div>
+  <hr>
+  <h2><a name="Awards" id="Awards">Honors and Awards</a></h2>
+  <ul>
+    <li>Ubiquant Scholarship, Peking University, 2023</li>
+    <li>Merit Student, Peking University, 2023</li>
+    <li>Yang Fuqing & Wang Yangyuan Academician Scholarship, Peking University, 2022 </li>
+    <li>Merit Student, Peking University, 2022</li>
+    <li>Merit Student, Peking University, 2020</li>
+    <li>The Third Prize of Peking University Scholarship, Peking University, 2020</li>
+  </ul>
+  <hr>
+  <h2><a name="TA" id="TA">Teaching Experience</a></h2>
+  <ul>
+    <li>Introduction to Information Security (Undergradate), TA, Fall 2022</li>
+    <li>Data Structures and Algorithms (Undergradate), TA, Spring 2022</li>
+    <li>Introduction to Information Security (Undergradate), TA, Fall 2021</li>
+  </ul>
+  <hr>
+  <!-- <h2><a name="TA" id="TA">Misc.</a></h2>
 <div class="container" style="margin-left: 50px;">
     <div class="mySlides">
       <div class="numbertext">1 / 7</div>
@@ -354,39 +311,40 @@ img {
       </div> 
     </div>
   </div> -->
-  
+
   <script>
-  let slideIndex = 1;
-  showSlides(slideIndex);
-  
-  function plusSlides(n) {
-    showSlides(slideIndex += n);
-  }
-  
-  function currentSlide(n) {
-    showSlides(slideIndex = n);
-  }
-  
-  function showSlides(n) {
-    let i;
-    let slides = document.getElementsByClassName("mySlides");
-    let dots = document.getElementsByClassName("demo");
-    let captionText = document.getElementById("caption");
-    if (n > slides.length) {slideIndex = 1}
-    if (n < 1) {slideIndex = slides.length}
-    for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";
+    let slideIndex = 1;
+    showSlides(slideIndex);
+
+    function plusSlides(n) {
+      showSlides(slideIndex += n);
     }
-    for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" active", "");
+
+    function currentSlide(n) {
+      showSlides(slideIndex = n);
     }
-    slides[slideIndex-1].style.display = "block";
-    dots[slideIndex-1].className += " active";
-    captionText.innerHTML = dots[slideIndex-1].alt;
-  }
+
+    function showSlides(n) {
+      let i;
+      let slides = document.getElementsByClassName("mySlides");
+      let dots = document.getElementsByClassName("demo");
+      let captionText = document.getElementById("caption");
+      if (n > slides.length) { slideIndex = 1 }
+      if (n < 1) { slideIndex = slides.length }
+      for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+      }
+      for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+      }
+      slides[slideIndex - 1].style.display = "block";
+      dots[slideIndex - 1].className += " active";
+      captionText.innerHTML = dots[slideIndex - 1].alt;
+    }
   </script>
-        <p>
-            Last update: Oct. 1, 2023
-        </p>
-    </body>
+  <p>
+    Last update: Oct. 1, 2023
+  </p>
+</body>
+
 </html>
