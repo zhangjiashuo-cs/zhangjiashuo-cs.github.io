@@ -20,14 +20,18 @@
             2024.
         </li>
         <br>
+        <a id="fcs-uav"></a>
+      <li><b> A Sharding Blockchain-based UAV System for Search and Rescue Missions</b>.
+        <br> Xihan Zhang, <b><font color="#0000FF">Jiashuo Zhang</font></b>, Jianbo Gao, Libin Xia, Zhi Guan, Hao Hu and Zhong Chen. </br>
+        Frontiers of Computer Science (<b>FCS'24</b>), 2024.
+      </li>
+      <br>
       <a id="icpc-solasim"></a>
       <li><b> SolaSim: Clone Detection for Solana Smart Contracts via Program 
         Representation</b>.
         <br> Che Wang, Yue Li, Jianbo Gao, Ke Wang, <b><font color="#0000FF">Jiashuo Zhang</font></b>, Zhi Guan and Zhong Chen. </br>
         The 32nd IEEE/ACM 
-International Conference on Program Comprehension (<b>ICPC'24</b>),
-        2024.
-      </li>
+International Conference on Program Comprehension (<b>ICPC'24</b>), 2024.      </li>
     </ul>
 </div>
 
@@ -169,7 +173,7 @@ International Conference on Program Comprehension (<b>ICPC'24</b>),
             <a id=""></a>
             <li> 陈钟,李青山,高健博,任立峰,<b>
                     <font color="#0000FF">张家硕</font>
-                </b>.一种基于可信执行环境的新型拜占庭容错共识方法. (实审中)
+                </b>.一种基于可信执行环境的新型拜占庭容错共识方法.
             </li>
             <a id=""></a>
             <li><b>
@@ -183,3 +187,20 @@ International Conference on Program Comprehension (<b>ICPC'24</b>),
             </li>
         </ul>
     </div>
+
+    <script>
+        window.onload = function() {
+            var publicationSections = document.querySelectorAll('.pubstyle');
+            var count = 1;
+        
+            for (var i = 0; i < publicationSections.length - 1; i++) { // Exclude the last section (Patents)
+                var publications = publicationSections[i].querySelectorAll('li');
+                publications.forEach(function(publication) {
+                    var currentHTML = publication.innerHTML;
+                    publication.innerHTML = '<b>' + count + '.</b> ' + currentHTML;
+                    count++;
+                });
+            }
+        };
+        </script>
+        
