@@ -8,30 +8,30 @@
             <br> <b>
                 <font color="#0000FF">Jiashuo Zhang</font>
             </b>, Jiachi Chen, Zhiyuan Wan, Ting Chen, Jianbo Gao and Zhong Chen.</br>
-            The 46th International Conference on Software Engineering (<b>ICSE'24</b>), 2024.
-        </li>
-        <br>
-        <a id="saner-crypto"></a>
-        <li><b> CRYPTCODER: Automated Code Generation for Cryptographic Tasks in Ethereum Smart Contracts</b>.
-            <br> Libin Xia, <b>
-                <font color="#0000FF">Jiashuo Zhang</font>
-            </b>, Che Wang, Zezhong Tan, Jianbo Gao, Zhi Guan and Zhong Chen. </br>
-            The 31th IEEE International Conference on Software Analysis, Evolution and Reengineering (<b>SANER'24</b>),
-            2024.
+            The 46th International Conference on Software Engineering (<b>ICSE'24</b>), CCF-A, Full Paper, 2024.
         </li>
         <br>
         <a id="fcs-uav"></a>
       <li><b> A Sharding Blockchain-based UAV System for Search and Rescue Missions</b>.
         <br> Xihan Zhang, <b><font color="#0000FF">Jiashuo Zhang</font></b>, Jianbo Gao, Libin Xia, Zhi Guan, Hao Hu and Zhong Chen. </br>
-        Frontiers of Computer Science (<b>FCS'24</b>), 2024.
+        Frontiers of Computer Science (<b>FCS'24</b>), CCF-B, Full Paper, 2024.
       </li>
       <br>
+      <a id="saner-crypto"></a>
+        <li><b> CRYPTCODER: Automated Code Generation for Cryptographic Tasks in Ethereum Smart Contracts</b>.
+            <br> Libin Xia, <b>
+                <font color="#0000FF">Jiashuo Zhang</font>
+            </b>, Che Wang, Zezhong Tan, Jianbo Gao, Zhi Guan and Zhong Chen. </br>
+            The 31th IEEE International Conference on Software Analysis, Evolution and Reengineering (<b>SANER'24</b>), CCF-B, Short Paper,
+            2024.
+        </li>
+        <br>
       <a id="icpc-solasim"></a>
       <li><b> SolaSim: Clone Detection for Solana Smart Contracts via Program 
         Representation</b>.
         <br> Che Wang, Yue Li, Jianbo Gao, Ke Wang, <b><font color="#0000FF">Jiashuo Zhang</font></b>, Zhi Guan and Zhong Chen. </br>
         The 32nd IEEE/ACM 
-International Conference on Program Comprehension (<b>ICPC'24</b>), 2024.      </li>
+International Conference on Program Comprehension (<b>ICPC'24</b>), CCF-B, Full Paper, 2024.      </li>
     </ul>
 </div>
 
@@ -188,18 +188,27 @@ International Conference on Program Comprehension (<b>ICPC'24</b>), 2024.      <
         </ul>
     </div>
 
+    <style>
+        .pubstyle ul {
+            list-style-type: none; /* Remove default bullet points */
+        }
+    </style>
+    
     <script>
         window.onload = function() {
             var publicationSections = document.querySelectorAll('.pubstyle');
             var count = 1;
         
-            for (var i = 0; i < publicationSections.length - 1; i++) { // Exclude the last section (Patents)
+            for (var i = 0; i < publicationSections.length; i++) {
                 var publications = publicationSections[i].querySelectorAll('li');
                 publications.forEach(function(publication) {
                     var currentHTML = publication.innerHTML;
                     publication.innerHTML = '<b>' + count + '.</b> ' + currentHTML;
                     count++;
                 });
+                if (i == publicationSections.length - 2) { // Reset count before the last section (Patents)
+                    count = 1;
+                }
             }
         };
         </script>
