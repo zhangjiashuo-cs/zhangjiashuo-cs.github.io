@@ -14,8 +14,9 @@ My research interests include:
 - **Blockchain-Oriented Software Engineering**: Vulnerability Detection; Software Anaysis/Testing; LLM4SE; Empirical Study;
 - **Security & Privacy of Web 3.0 systems**: Cryptographic Applications; Decentralized Applications; Cross-Chain Applications; Decentralized Identity Systems;
 
-# Recent Publications
 
+# Recent Publications
+[Full List](./publications/)
 * **Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts**. \
   **Jiashuo Zhang**, Yiming Shen, Jiachi Chen, Jianzhong Su, Yanlin Wang, Ting Chen, Jianbo Gao and Zhong Chen.\
   The 47th International Conference on Software Engineering (**ICSE'25**), 2025.
@@ -38,6 +39,7 @@ My research interests include:
   Che Wang, Yue Li, Jianbo Gao, Ke Wang, **Jiashuo Zhang**, Zhi Guan and Zhong Chen. \
   The 32nd IEEE/ACM International Conference on Program Comprehension (**ICPC'24**), 2024. 
 
+
 # Honors and Awards
 
 - Tun Scholarship, Peking University, 2024
@@ -51,13 +53,16 @@ My research interests include:
 - Merit Student, Peking University, 2020
 - The Third Prize of Peking University Scholarship, Peking University, 2020
 
+
 # Teaching Experience
 
 - Introduction to Information Security (Undergradate), TA, Fall 2022, Peking University 
 - Data Structures and Algorithms (Undergradate), TA, Spring 2022, Peking University 
 - Introduction to Information Security (Undergradate), TA, Fall 2021, Peking University 
 
+
 # Service
+
 - Junior PC, MSR 2025
 - Reviewer, IEEE SMC 2024
 - Reviewer, IEEE SMC 2023
