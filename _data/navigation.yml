@@ -9,11 +9,11 @@ main:
     url: "/publications"
 
   - title: "Rewards"
-    url: "/#-honors-and-awards"    
+    url: "/#honors-and-awards"    
 
   - title: "Teaching"
-    url: "/#-teaching-experience"  
+    url: "/#teaching-experience"  
     
   - title: "Service"
-    url: "/#-service"
+    url: "/#service"
         

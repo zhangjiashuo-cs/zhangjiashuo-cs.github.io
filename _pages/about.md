@@ -8,7 +8,7 @@ redirect_from:
 
 
 
-I'm Jiashuo Zhang (张家硕), a fourth-year Ph.D. candidate at Peking University, advised by Prof. [Zhong Chen](https://cs.pku.edu.cn/info/1062/1605.htm). I obtained my Bachelor’s degree from the School of Computer Science, Peking University. I'm currently working at [Blockchain Research Center](https://brc.pku.edu.cn/), School of Computer Science, Peking University. 
+I’m Jiashuo Zhang (张家硕), a fourth-year Ph.D. candidate at Peking University, under the supervision of Prof. [Zhong Chen](https://cs.pku.edu.cn/info/1062/1605.htm). I obtained my Bachelor’s degree from the School of Computer Science at Peking University. Currently, I am working at the [Blockchain Research Center](https://brc.pku.edu.cn/), Peking University. 
 
 My research interests include: 
 - **Blockchain-Oriented Software Engineering**: Vulnerability Detection; Software Anaysis/Testing; LLM4SE; Empirical Study;
@@ -59,5 +59,6 @@ My research interests include:
 
 # Service
 - Junior PC, MSR 2025
-- Reviewer, IEEE SMC 
+- Reviewer, IEEE SMC 2024
+- Reviewer, IEEE SMC 2023
 - Reviewer, Blockchain: Research and Applications
