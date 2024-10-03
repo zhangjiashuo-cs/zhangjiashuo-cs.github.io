@@ -6,22 +6,14 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: "/publications"
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Rewards"
+    url: "/#-honors-and-awards"    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: "/#-teaching-experience"  
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Service"
+    url: "/#-service"
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
