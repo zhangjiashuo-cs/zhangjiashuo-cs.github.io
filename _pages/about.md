@@ -56,9 +56,9 @@ My research interests include:
 
 # Teaching Experience
 
-- Introduction to Information Security (Undergradate), TA, Fall 2022, Peking University 
-- Data Structures and Algorithms (Undergradate), TA, Spring 2022, Peking University 
-- Introduction to Information Security (Undergradate), TA, Fall 2021, Peking University 
+- Introduction to Information Security (Undergraduate), TA, Fall 2022, Peking University 
+- Data Structures and Algorithms (Undergraduate), TA, Spring 2022, Peking University 
+- Introduction to Information Security (Undergraduate), TA, Fall 2021, Peking University 
 
 
 # Service
