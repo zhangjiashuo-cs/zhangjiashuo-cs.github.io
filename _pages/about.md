@@ -19,28 +19,25 @@ My research interests include:
 [Full List](./publications/)
 * **Automated Test Generation For Smart Contracts via On-Chain Test Case Augmentation and Migration**. \
   **Jiashuo Zhang**, Jiachi Chen, John Grundy, Jianbo Gao, Yanlin Wang, Ting Chen, Zhi Guan and Zhong Chen.\
-  The 47th International Conference on Software Engineering (**ICSE'25**), 2025.
+  The 47th International Conference on Software Engineering (**ICSE'25**), CCF-A, Full Paper, 2025.
 * **Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts**. \
   **Jiashuo Zhang**, Yiming Shen, Jiachi Chen, Jianzhong Su, Yanlin Wang, Ting Chen, Jianbo Gao and Zhong Chen.\
-  The 47th International Conference on Software Engineering (**ICSE'25**), 2025.
+  The 47th International Conference on Software Engineering (**ICSE'25**), CCF-A, Full Paper, 2025.
 * **When Contracts Meets Crypto: Exploring Developers' Struggles with Ethereum Cryptographic APIs**. \
   **Jiashuo Zhang**, Jiachi Chen, Zhiyuan Wan, Ting Chen, Jianbo Gao and Zhong Chen. \
-  The 46th International Conference on Software Engineering (**ICSE'24**), 2024.
-* **CRYPTCODER: Automated Code Generation for Cryptographic Tasks in Ethereum Smart Contracts**.\
-  Libin Xia, **Jiashuo Zhang**, Che Wang, Zezhong Tan, Jianbo Gao, Zhi Guan and Zhong Chen. \
-  The 31th IEEE International Conference on Software Analysis, Evolution and Reengineering (**SANER'24**), 2024. 
+  The 46th International Conference on Software Engineering (**ICSE'24**), CCF-A, Full Paper, 2024.
 * **ContractTinker: LLM-Empowered Vulnerability Repair for Real-World Smart Contracts**. \
   Che Wang, **Jiashuo Zhang** , Jianbo Gao, Libin Xia, Zhi Guan and Zhong Chen. \
-  The 39th IEEE/ACM International Conference on Automated Software Engineering, (**ASE'24**), 2024.
+  The 39th IEEE/ACM International Conference on Automated Software Engineering, (**ASE'24**), CCF-A, Short Paper, 2024.
 * **A Sharding Blockchain-based UAV System for Search and Rescue Missions**. \
   Xihan Zhang, **Jiashuo Zhang**, Jianbo Gao, Libin Xia, Zhi Guan, Hao Hu and Zhong Chen. \
-  Frontiers of Computer Science (**FCS'24**), 2024.
+  Frontiers of Computer Science (**FCS'24**), CCF-B, Full Paper, 2024.
 * **Understanding and Detecting Privacy Leakage Vulnerabilities in Hyperledger Fabric Chaincodes**.\ 
   Ziming Chen, Yue Li, Jianbo Gao, **Jiashuo Zhang**, Ke Wang, Jianbin Hu, Zhi Guan, Zhong Chen. \
-  The 35th IEEE International Symposium on Software Reliability Engineering (**ISSRE'24**), 2024.
+  The 35th IEEE International Symposium on Software Reliability Engineering (**ISSRE'24**), CCF-B, Full Paper, 2024.
 * **SolaSim: Clone Detection for Solana Smart Contracts via Program Representation**.\
   Che Wang, Yue Li, Jianbo Gao, Ke Wang, **Jiashuo Zhang**, Zhi Guan and Zhong Chen. \
-  The 32nd IEEE/ACM International Conference on Program Comprehension (**ICPC'24**), 2024. 
+  The 32nd IEEE/ACM International Conference on Program Comprehension (**ICPC'24**), CCF-B, Full Paper, 2024. 
 
 
 # Honors and Awards
