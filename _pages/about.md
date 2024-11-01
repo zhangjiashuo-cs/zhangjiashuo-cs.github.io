@@ -17,6 +17,9 @@ My research interests include:
 
 # Recent Publications
 [Full List](./publications/)
+* **Automated Test Generation For Smart Contracts via On-Chain Test Case Augmentation and Migration**. \
+  **Jiashuo Zhang**, Jiachi Chen, John Grundy, Jianbo Gao, Yanlin Wang, Ting Chen, Zhi Guan and Zhong Chen.\
+  The 47th International Conference on Software Engineering (**ICSE'25**), 2025.
 * **Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts**. \
   **Jiashuo Zhang**, Yiming Shen, Jiachi Chen, Jianzhong Su, Yanlin Wang, Ting Chen, Jianbo Gao and Zhong Chen.\
   The 47th International Conference on Software Engineering (**ICSE'25**), 2025.
@@ -42,7 +45,6 @@ My research interests include:
 
 # Honors and Awards
 
-- Tun Scholarship, Peking University, 2024
 - Merit Student, Peking University, 2024
 - ACM SIGSOFT CAPS Travel Award, ICSE'24, 2024
 - Ubiquant Scholarship, Peking University, 2023
