@@ -42,6 +42,7 @@ My research interests include:
 
 # Honors and Awards
 
+- Peking University First-class Scholarship, Peking University, 2024
 - Merit Student, Peking University, 2024
 - ACM SIGSOFT CAPS Travel Award, ICSE'24, 2024
 - Ubiquant Scholarship, Peking University, 2023
@@ -63,6 +64,5 @@ My research interests include:
 # Service
 
 - Junior PC, MSR 2025
-- Reviewer, IEEE SMC 2024
-- Reviewer, IEEE SMC 2023
-- Reviewer, Blockchain: Research and Applications
+- Reviewer, IEEE SMC 2023/2024, Blockchain: Research and Applications
+- Co-reviewer: ICSE, FSE, SANER, AuSE, SEKE
