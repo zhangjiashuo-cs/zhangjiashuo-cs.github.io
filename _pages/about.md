@@ -8,11 +8,21 @@ redirect_from:
 
 
 
-I’m Jiashuo Zhang (张家硕), a fourth-year Ph.D. candidate at Peking University, under the supervision of Prof. [Zhong Chen](https://cs.pku.edu.cn/info/1062/1605.htm). I obtained my Bachelor’s degree from the School of Computer Science at Peking University. Currently, I am working at the [Blockchain Research Center](https://brc.pku.edu.cn/), Peking University. 
+I’m Jiashuo Zhang (张家硕), a fourth-year Ph.D. student at Peking University, under the supervision of Prof. [Zhong Chen](https://cs.pku.edu.cn/info/1062/1605.htm). I obtained my Bachelor’s degree from the School of Computer Science at Peking University. Currently, I am working at the [Blockchain Research Center](https://brc.pku.edu.cn/), Peking University. 
+
+I will be on the job market for the 2025-2026 cycle.
+
+# Education
+
+* Peking University, Ph.D in Computer Science (Advisor: Prof. [Zhong Chen](https://cs.pku.edu.cn/info/1062/1605.htm)) 2021 – 2026 (expected)
+* Peking University, Bachelor in Computer Science, School of Computer Science. 2017 – 2021
+
+# Research Interests:
 
 My research interests include: 
-- **Blockchain-Oriented Software Engineering**: Vulnerability Detection; Software Anaysis/Testing; LLM4SE; Empirical Study;
-- **Security & Privacy of Web 3.0 systems**: Cryptographic Applications; Decentralized Applications; Cross-Chain Applications; Decentralized Identity Systems;
+
+- **Software Security & Reliability** : LLM4SE; LLM4SEC; Vulnerability Detection; Software Anaysis/Testing; Empirical Study;
+- **Security & Privacy of Web 3.0 systems**: Smart Contract; Cryptographic Applications; Decentralized Applications; Cross-Chain Applications; Decentralized Identity Systems;
 
 
 # Recent Publications
@@ -42,6 +52,7 @@ My research interests include:
 
 # Honors and Awards
 
+- ACM SIGSOFT CAPS Travel Award, ICSE'25, 2025
 - Peking University First-class Scholarship, Peking University, 2024
 - Merit Student, Peking University, 2024
 - ACM SIGSOFT CAPS Travel Award, ICSE'24, 2024
@@ -63,6 +74,7 @@ My research interests include:
 
 # Service
 
+- PC Member - Artifact Evaluation, ASPLOS 2025
 - Junior PC, MSR 2025
-- Reviewer, IEEE SMC 2023/2024, Blockchain: Research and Applications
+- Reviewer, IEEE SMC 2023/2024, Blockchain: Research and Applications, Chinese Journal of Electronics
 - Co-reviewer: ICSE, FSE, SANER, AuSE, SEKE
