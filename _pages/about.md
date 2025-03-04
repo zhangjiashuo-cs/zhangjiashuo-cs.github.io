@@ -8,7 +8,7 @@ redirect_from:
 
 
 
-I’m Jiashuo Zhang (张家硕), a fourth-year Ph.D. student at Peking University, under the supervision of Prof. [Zhong Chen](https://cs.pku.edu.cn/info/1062/1605.htm). I obtained my Bachelor’s degree from the School of Computer Science at Peking University. Currently, I am working at the [Blockchain Research Center](https://brc.pku.edu.cn/), Peking University. 
+I’m Jiashuo Zhang (张家硕), a fourth-year Ph.D. student at Peking University, under the supervision of Prof. [Zhong Chen](https://cs.pku.edu.cn/info/1062/1605.htm). I obtained my Bachelor’s degree from the School of Computer Science at Peking University. Currently, I am working at the [InfoSec Lab][https://infosec.pku.edu.cn/] and  [Blockchain Research Center](https://brc.pku.edu.cn/), Peking University. 
 
 I will be on the job market for the 2025-2026 cycle.
 
