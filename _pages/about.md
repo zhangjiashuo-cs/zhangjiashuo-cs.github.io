@@ -22,7 +22,7 @@ I will be on the job market for the 2025-2026 cycle.
 My research interests include: 
 
 - **Software Security & Reliability** : LLM4SE; LLM4SEC; Vulnerability Detection; Software Anaysis/Testing; Empirical Study;
-- **Security & Privacy of Web 3.0 systems**: Smart Contract; Cryptographic Applications; Decentralized Applications; Cross-Chain Applications; Decentralized Identity Systems;
+- **Domain-Oriented Software Engeneering**: Smart Contract; Cryptographic Applications; Decentralized Applications; Cross-Chain Applications; Decentralized Identity Systems;
 
 
 # Recent Publications
