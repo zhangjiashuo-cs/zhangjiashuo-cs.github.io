@@ -8,7 +8,7 @@ redirect_from:
 
 
 
-I’m Jiashuo Zhang (张家硕), a fourth-year Ph.D. student at Peking University, under the supervision of Prof. [Zhong Chen](https://cs.pku.edu.cn/info/1062/1605.htm). I obtained my Bachelor’s degree from the School of Computer Science at Peking University. Currently, I am working at the [InfoSec Lab][https://infosec.pku.edu.cn/] and  [Blockchain Research Center](https://brc.pku.edu.cn/), Peking University. 
+I’m Jiashuo Zhang (张家硕), a fourth-year Ph.D. student at Peking University, under the supervision of Prof. [Zhong Chen](https://cs.pku.edu.cn/info/1062/1605.htm). I obtained my Bachelor’s degree from the School of Computer Science at Peking University. Currently, I am working at the [InfoSec Lab](https://infosec.pku.edu.cn/) and  [Blockchain Research Center](https://brc.pku.edu.cn/), Peking University. 
 
 I will be on the job market for the 2025-2026 cycle.
 
@@ -17,7 +17,7 @@ I will be on the job market for the 2025-2026 cycle.
 * Peking University, Ph.D in Computer Science (Advisor: Prof. [Zhong Chen](https://cs.pku.edu.cn/info/1062/1605.htm)) 2021 – 2026 (expected)
 * Peking University, Bachelor in Computer Science, School of Computer Science. 2017 – 2021
 
-# Research Interests:
+# Research Interests
 
 My research interests include: 
 
@@ -26,7 +26,7 @@ My research interests include:
 
 
 # Recent Publications
-[Full List](./publications/)
+[Full List](https://scholar.google.com/citations?user=4MysZzYAAAAJ&hl=en)
 * **Automated Test Generation For Smart Contracts via On-Chain Test Case Augmentation and Migration**. \
   **Jiashuo Zhang**, Jiachi Chen, John Grundy, Jianbo Gao, Yanlin Wang, Ting Chen, Zhi Guan and Zhong Chen.\
   The 47th International Conference on Software Engineering (**ICSE'25**), CCF-A, Full Paper, 2025.
