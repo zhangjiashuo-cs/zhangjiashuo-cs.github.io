@@ -35,6 +35,7 @@ My research interests include:
 * **Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts**. \
   **Jiashuo Zhang**, Yiming Shen, Jiachi Chen, Jianzhong Su, Yanlin Wang, Ting Chen, Jianbo Gao and Zhong Chen.\
   The 47th International Conference on Software Engineering (**ICSE'25**), CCF-A, Full Paper, 2025.
+  **ACM SIGSOFT Distinguished Paper Award**
 * **When Contracts Meets Crypto: Exploring Developers' Struggles with Ethereum Cryptographic APIs**. \
   **Jiashuo Zhang**, Jiachi Chen, Zhiyuan Wan, Ting Chen, Jianbo Gao and Zhong Chen. \
   The 46th International Conference on Software Engineering (**ICSE'24**), CCF-A, Full Paper, 2024.
@@ -54,6 +55,7 @@ My research interests include:
 
 # Honors and Awards
 
+- ACM SIGSOFT Distinguished Paper Award (ICSE, CCF-A) 2025
 - ACM SIGSOFT CAPS Travel Award, ICSE'25, 2025
 - Peking University First-class Scholarship, Peking University, 2024
 - Merit Student, Peking University, 2024
@@ -77,6 +79,6 @@ My research interests include:
 # Service
 
 - PC Member - Artifact Evaluation, ASPLOS 2025
-- Junior PC, MSR 2025
+- PC Member - Junior PC, MSR 2025
 - Reviewer, IEEE SMC 2023/2024, Automated Software Engeneering (AuSE), Blockchain: Research and Applications (BCRA), Chinese Journal of Electronics (CJE)
-- Co-reviewer: ICSE, FSE, SANER, AuSE, SEKE
+- Sub-reviewer: ICSE, FSE, SANER, AuSE, SEKE
