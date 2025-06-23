@@ -13,7 +13,7 @@ redirect_from:
 [Google Scholar](https://scholar.google.com/citations?user=4MysZzYAAAAJ&hl=en)
 
 * **FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction.** \ 
-  Jiachi Chen, Yiming Shen, **Jiashuo Zhang**, Zihao Li, John Grundy, Zhenzhe Shao, Yanlin Wang, Jiashui Wang, Ting Chen, Zibin Zheng
+  Jiachi Chen, Yiming Shen, **Jiashuo Zhang***, Zihao Li, John Grundy, Zhenzhe Shao, Yanlin Wang, Jiashui Wang, Ting Chen, Zibin Zheng
   The 48th International Conference on Software Engineering (**ICSE'26**), CCF-A, Full Paper, 2026.
 * **When Crypto Fails: Demystifying Cryptographic Defects in Ethereum Smart Contracts.** \
   **Jiashuo Zhang**, Yiming Shen, Jiachi Chen, Tao Zhang, Yanlin Wang, Ting Chen, Jianbo Gao and Zhong Chen. 
@@ -40,36 +40,27 @@ redirect_from:
 * **SolaSim: Clone Detection for Solana Smart Contracts via Program Representation**.\
   Che Wang, Yue Li, Jianbo Gao, Ke Wang, **Jiashuo Zhang**, Zhi Guan and Zhong Chen. \
   The 32nd IEEE/ACM International Conference on Program Comprehension (**ICPC'24**), CCF-B, Full Paper, 2024. 
-
-
-# Honors and Awards
-
-- ACM SIGSOFT Distinguished Paper Award (ICSE, CCF-A) 2025
-- ACM SIGSOFT CAPS Travel Award, ICSE'25, 2025
-- Presidential Scholarship of Peking University (highest honor for Ph.D. students at PKU), 2025
-- The Peking University Challenge Cup First-Class Award, Peking University, 2025
-- Peking University First-class Scholarship, Peking University, 2024
-- Merit Student, Peking University, 2024
-- ACM SIGSOFT CAPS Travel Award, ICSE'24, 2024
-- Ubiquant Scholarship, Peking University, 2023
-- Merit Student, Peking University, 2023
-- Graduate Research Travel Award, Peking University, ICSE'23, 2023
-- Yang Fuqing & Wang Yangyuan Academician Scholarship, Peking University, 2022
-- Merit Student, Peking University, 2022
-- Merit Student, Peking University, 2020
-- The Third Prize of Peking University Scholarship, Peking University, 2020
-
-
-# Teaching Experience
-
-- Introduction to Information Security (Undergraduate), TA, Fall 2022, Peking University 
-- Data Structures and Algorithms (Undergraduate), TA, Spring 2022, Peking University 
-- Introduction to Information Security (Undergraduate), TA, Fall 2021, Peking University 
-
-# Service
-
-- PC Member - Artifact Evaluation, ASPLOS 2025
-- PC Member - Junior PC, MSR 2025
-- PC Member, APSEC 2025
-- Reviewer, TDSC (CCF-A),  AuSE (CCF-B), BCRA (JCR-Q1), CJE (CCF-T1)
-- Sub-reviewer: ICSE, FSE, SANER, AuSE, SEKE
+* **Cryptcoder: An Automatic Code Generator for Cryptographic Tasks in Ethereum Smart Contracts.** \
+  Libin Xia, **Jiashuo Zhang**, Che Wang, Zezhong Tan, Jianbo Gao, Zhi Guan, Zhong Chen. \
+  2024 IEEE International Conference on Software Analysis, Evolution and Reengineering (**SANER'24**), CCF-B, Tool Paper
+* **Accelerating block lifecycle on blockchain via hardware transactional memory.** \
+  Yue Li, Han Liu, Jianbo Gao, **Jiashuo Zhang**, Zhi Guan, Zhong Chen. \
+  Journal of Parallel and Distributed Computing (**JPDC'24**), CCF-B, Full Paper, 2024.
+* **Hades: Practical Decentralized Identity with Full Accountability and Fine-grained Sybil-resistance.** \
+  Ke Wang, Jianbo Gao, Qiao Wang, **Jiashuo Zhang**, Yue Li, Zhi Guan, Zhong Chen. \
+  The 39th Annual Computer Security Applications Conference (ACSAC'24), CCF-B, Full Paper, 2024.
+* **Siguard: Detecting Signature-Related Vulnerabilities in Smart Contracts.** \
+  **Jiashuo Zhang**, Yue Li, Jianbo Gao, Zhi Guan, Zhong Chen. \
+  The 45th International Conference on Software Engineering (**ICSE'23**), CCF-A, Short Paper, 2023
+* **Xscope: Hunting for cross-chain bridge attacks.** \
+  **Jiashuo Zhang**, Jianbo Gao, Yue Li, Ziming Chen, Zhi Guan, Zhong Chen. \
+  The 37th IEEE/ACM International Conference on Automated Software Engineering (**ASE'22**), CCF-A, Short Paper, 2022.
+* **Pshard: a practical sharding protocol for enterprise blockchain** .\
+  Jianbo Gao, **Jiashuo Zhang**, Yue Li, Jiakun Hao, Ke Wang, Zhi Guan, Zhong Chen. \
+  The 5th International Conference on Blockchain Technology and Applications (**ICBTA'25**), Full Paper, 2025
+* **ChainDB: Ensuring Integrity of Querying Off-Chain Data on Blockchain** .\
+  Jianbo Gao, **Jiashuo Zhang**, Yue Li, Jiakun Hao, Ke Wang, Zhi Guan, Zhong Chen. \
+  The 5th International Conference on Blockchain Technology and Applications (**ICBTA'25**), Full Paper, 2025 (**Best Presentation Award**)
+* **TBFT: Efficient Byzantine Fault Tolerance Using Trusted Execution Environment.** \
+  **Jiashuo Zhang**, Jianbo Gao, Ke Wang, Zhenhao Wu, Yue Li, Zhi Guan, Zhong Chen. \
+  The 56th International Conference on Communications (**ICC'22**), CCF-C, Full Paper, 2022.
