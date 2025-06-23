@@ -10,20 +10,20 @@ redirect_from:
 
 I’m Jiashuo Zhang (张家硕), a fourth-year Ph.D. student at Peking University, under the supervision of Prof. [Zhong Chen](https://cs.pku.edu.cn/info/1062/1605.htm). I obtained my Bachelor’s degree from the School of Computer Science at Peking University. Currently, I am working at the [InfoSec Lab](https://infosec.pku.edu.cn/) and  [Blockchain Research Center](https://brc.pku.edu.cn/), Peking University. I expect to graduate in 2026.
 
-# :mortar_board: Education
+## :mortar_board: Education
 
 * Peking University, Ph.D in Computer Science (Advisor: Prof. [Zhong Chen](https://cs.pku.edu.cn/info/1062/1605.htm)) 2021 – 2026 (expected)
 * Peking University, Bachelor in Computer Science, School of Computer Science. 2017 – 2021
 
-# :dart: Research Interests
+## :dart: Research Interests
 
 My research interests include: 
 
 - **Software Security & Reliability** : LLM4SE; LLM4SEC; Vulnerability Detection; Software Anaysis/Testing; Empirical Study;
 - **Domain-Oriented Software Engeneering**: Smart Contract; Cryptographic Applications; Decentralized Applications; Cross-Chain Applications; Decentralized Identity Systems;
 
+## :page_with_curl: Recent Publications
 
-# :page_with_curl: Recent Publications
 [Full List](https://scholar.google.com/citations?user=4MysZzYAAAAJ&hl=en)
 
 * **FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction.** \
@@ -55,8 +55,7 @@ My research interests include:
   Che Wang, Yue Li, Jianbo Gao, Ke Wang, **Jiashuo Zhang**, Zhi Guan and Zhong Chen. \
   The 32nd IEEE/ACM International Conference on Program Comprehension (**ICPC'24**), CCF-B, Full Paper, 2024. 
 
-
-# :trophy: Honors and Awards
+##   :trophy: Honors and Awards
 
 - ACM SIGSOFT Distinguished Paper Award (ICSE, CCF-A) 2025
 - ACM SIGSOFT CAPS Travel Award, ICSE'25, 2025
@@ -73,14 +72,13 @@ My research interests include:
 - Merit Student, Peking University, 2020
 - The Third Prize of Peking University Scholarship, Peking University, 2020
 
-
-# :house: Teaching Experience
+##​ :house: Teaching Experience
 
 - Introduction to Information Security (Undergraduate), TA, Fall 2022, Peking University 
 - Data Structures and Algorithms (Undergraduate), TA, Spring 2022, Peking University 
 - Introduction to Information Security (Undergraduate), TA, Fall 2021, Peking University 
 
-# :briefcase: Service
+## :briefcase: Service
 
 - PC Member - Artifact Evaluation, ASPLOS 2025
 - PC Member - Junior PC, MSR 2025
