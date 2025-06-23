@@ -2,29 +2,15 @@
 permalink: /
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /publications/
+  - /publications.html
 ---
 
 
 
-I’m Jiashuo Zhang (张家硕), a fourth-year Ph.D. student at Peking University, under the supervision of Prof. [Zhong Chen](https://cs.pku.edu.cn/info/1062/1605.htm). I obtained my Bachelor’s degree from the School of Computer Science at Peking University. Currently, I am working at the [InfoSec Lab](https://infosec.pku.edu.cn/) and  [Blockchain Research Center](https://brc.pku.edu.cn/), Peking University. I expect to graduate in 2026.
 
-# Education
-
-* Peking University, Ph.D in Computer Science (Advisor: Prof. [Zhong Chen](https://cs.pku.edu.cn/info/1062/1605.htm)) 2021 – 2026 (expected)
-* Peking University, Bachelor in Computer Science, School of Computer Science. 2017 – 2021
-
-# Research Interests
-
-My research interests include: 
-
-- **Software Security & Reliability** : LLM4SE; LLM4SEC; Vulnerability Detection; Software Anaysis/Testing; Empirical Study;
-- **Domain-Oriented Software Engeneering**: Smart Contract; Cryptographic Applications; Decentralized Applications; Cross-Chain Applications; Decentralized Identity Systems;
-
-
-# Recent Publications
-[Full List](https://scholar.google.com/citations?user=4MysZzYAAAAJ&hl=en)
+# Publications
+[Google Scholar](https://scholar.google.com/citations?user=4MysZzYAAAAJ&hl=en)
 
 * **FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction.** \ 
   Jiachi Chen, Yiming Shen, **Jiashuo Zhang**, Zihao Li, John Grundy, Zhenzhe Shao, Yanlin Wang, Jiashui Wang, Ting Chen, Zibin Zheng
