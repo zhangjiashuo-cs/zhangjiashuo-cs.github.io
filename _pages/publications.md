@@ -8,7 +8,7 @@ redirect_from:
 
 [Google Scholar](https://scholar.google.com/citations?user=4MysZzYAAAAJ&hl=en)
 
-* **FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction.** \ 
+* **FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction.** \
   Jiachi Chen, Yiming Shen, **Jiashuo Zhang***, Zihao Li, John Grundy, Zhenzhe Shao, Yanlin Wang, Jiashui Wang, Ting Chen, Zibin Zheng
   The 48th International Conference on Software Engineering (**ICSE'26**), CCF-A, Full Paper, 2026.
 * **When Crypto Fails: Demystifying Cryptographic Defects in Ethereum Smart Contracts.** \

@@ -24,8 +24,6 @@ My research interests include:
 
 ## :page_with_curl: Recent Publications
 
-[Full List](https://scholar.google.com/citations?user=4MysZzYAAAAJ&hl=en)
-
 * **FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction.** \
   Jiachi Chen, Yiming Shen, **Jiashuo Zhang**, Zihao Li, John Grundy, Zhenzhe Shao, Yanlin Wang, Jiashui Wang, Ting Chen, Zibin Zheng
   The 48th International Conference on Software Engineering (**ICSE'26**), CCF-A, Full Paper, 2026.
@@ -72,7 +70,7 @@ My research interests include:
 - Merit Student, Peking University, 2020
 - The Third Prize of Peking University Scholarship, Peking University, 2020
 
-##​ :house: Teaching Experience
+##  :house: Teaching Experience
 
 - Introduction to Information Security (Undergraduate), TA, Fall 2022, Peking University 
 - Data Structures and Algorithms (Undergraduate), TA, Spring 2022, Peking University 
