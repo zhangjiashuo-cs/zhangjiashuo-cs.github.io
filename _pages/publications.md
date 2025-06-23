@@ -52,6 +52,15 @@ redirect_from:
 * **Siguard: Detecting Signature-Related Vulnerabilities in Smart Contracts.** \
   **Jiashuo Zhang**, Yue Li, Jianbo Gao, Zhi Guan, Zhong Chen. \
   The 45th International Conference on Software Engineering (**ICSE'23**), CCF-A, Short Paper, 2023
+* **TDID: Transparent and Efficient Decentralized Identity Management with Blockchain.**
+  Jiakun Hao, Jianbo Gao, Peng Xiang, **Jiashuo Zhang**, Ziming Chen, Hao Hu, Zhong Chen.
+  The IEEE International Conference on Systems, Man, and Cybernetics (**SMC'23**), CCF-C, Full Paper, 2023.
+* **Detection Method for Rule Conflicts in RegLang Regulatory Contracts.**
+  Jianbo Gao, **Jiashuo Zhang**, Qingshan Li, Zhong Chen.
+  Computer Engineering (In Chinese), CCF-T2, 2023
+* **RegLang:A Smart Contract Programming Language for Regulation.**
+  Jianbo Gao, **Jiashuo Zhang**, Qingshan Li, Zhong Chen.
+  Computer Science (In Chinese), CCF-T2, 2023
 * **Xscope: Hunting for cross-chain bridge attacks.** \
   **Jiashuo Zhang**, Jianbo Gao, Yue Li, Ziming Chen, Zhi Guan, Zhong Chen. \
   The 37th IEEE/ACM International Conference on Automated Software Engineering (**ASE'22**), CCF-A, Short Paper, 2022.
