@@ -10,12 +10,12 @@ redirect_from:
 
 I’m Jiashuo Zhang (张家硕), a fourth-year Ph.D. student at Peking University, under the supervision of Prof. [Zhong Chen](https://cs.pku.edu.cn/info/1062/1605.htm). I obtained my Bachelor’s degree from the School of Computer Science at Peking University. Currently, I am working at the [InfoSec Lab](https://infosec.pku.edu.cn/) and  [Blockchain Research Center](https://brc.pku.edu.cn/), Peking University. I expect to graduate in 2026.
 
-# Education
+# :mortar_board: Education
 
 * Peking University, Ph.D in Computer Science (Advisor: Prof. [Zhong Chen](https://cs.pku.edu.cn/info/1062/1605.htm)) 2021 – 2026 (expected)
 * Peking University, Bachelor in Computer Science, School of Computer Science. 2017 – 2021
 
-# Research Interests
+# :dart: Research Interests
 
 My research interests include: 
 
@@ -23,10 +23,10 @@ My research interests include:
 - **Domain-Oriented Software Engeneering**: Smart Contract; Cryptographic Applications; Decentralized Applications; Cross-Chain Applications; Decentralized Identity Systems;
 
 
-# Recent Publications
+# :page_with_curl: Recent Publications
 [Full List](https://scholar.google.com/citations?user=4MysZzYAAAAJ&hl=en)
 
-* **FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction.** \ 
+* **FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction.** \
   Jiachi Chen, Yiming Shen, **Jiashuo Zhang**, Zihao Li, John Grundy, Zhenzhe Shao, Yanlin Wang, Jiashui Wang, Ting Chen, Zibin Zheng
   The 48th International Conference on Software Engineering (**ICSE'26**), CCF-A, Full Paper, 2026.
 * **When Crypto Fails: Demystifying Cryptographic Defects in Ethereum Smart Contracts.** \
@@ -48,7 +48,7 @@ My research interests include:
 * **A Sharding Blockchain-based UAV System for Search and Rescue Missions**. \
   Xihan Zhang, **Jiashuo Zhang**, Jianbo Gao, Libin Xia, Zhi Guan, Hao Hu and Zhong Chen. \
   Frontiers of Computer Science (**FCS'24**), CCF-B, Full Paper, 2024.
-* **Understanding and Detecting Privacy Leakage Vulnerabilities in Hyperledger Fabric Chaincodes**. \ 
+* **Understanding and Detecting Privacy Leakage Vulnerabilities in Hyperledger Fabric Chaincodes**. \
   Ziming Chen, Yue Li, Jianbo Gao, **Jiashuo Zhang**, Ke Wang, Jianbin Hu, Zhi Guan, Zhong Chen. \
   The 35th IEEE International Symposium on Software Reliability Engineering (**ISSRE'24**), CCF-B, Full Paper, 2024.
 * **SolaSim: Clone Detection for Solana Smart Contracts via Program Representation**.\
@@ -56,7 +56,7 @@ My research interests include:
   The 32nd IEEE/ACM International Conference on Program Comprehension (**ICPC'24**), CCF-B, Full Paper, 2024. 
 
 
-# Honors and Awards
+# :trophy: Honors and Awards
 
 - ACM SIGSOFT Distinguished Paper Award (ICSE, CCF-A) 2025
 - ACM SIGSOFT CAPS Travel Award, ICSE'25, 2025
@@ -74,13 +74,13 @@ My research interests include:
 - The Third Prize of Peking University Scholarship, Peking University, 2020
 
 
-# Teaching Experience
+# :house: Teaching Experience
 
 - Introduction to Information Security (Undergraduate), TA, Fall 2022, Peking University 
 - Data Structures and Algorithms (Undergraduate), TA, Spring 2022, Peking University 
 - Introduction to Information Security (Undergraduate), TA, Fall 2021, Peking University 
 
-# Service
+# :briefcase: Service
 
 - PC Member - Artifact Evaluation, ASPLOS 2025
 - PC Member - Junior PC, MSR 2025

@@ -6,10 +6,6 @@ redirect_from:
   - /publications.html
 ---
 
-
-
-
-# Publications
 [Google Scholar](https://scholar.google.com/citations?user=4MysZzYAAAAJ&hl=en)
 
 * **FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction.** \ 
@@ -34,7 +30,7 @@ redirect_from:
 * **A Sharding Blockchain-based UAV System for Search and Rescue Missions**. \
   Xihan Zhang, **Jiashuo Zhang**, Jianbo Gao, Libin Xia, Zhi Guan, Hao Hu and Zhong Chen. \
   Frontiers of Computer Science (**FCS'24**), CCF-B, Full Paper, 2024.
-* **Understanding and Detecting Privacy Leakage Vulnerabilities in Hyperledger Fabric Chaincodes**. \ 
+* **Understanding and Detecting Privacy Leakage Vulnerabilities in Hyperledger Fabric Chaincodes**. \
   Ziming Chen, Yue Li, Jianbo Gao, **Jiashuo Zhang**, Ke Wang, Jianbin Hu, Zhi Guan, Zhong Chen. \
   The 35th IEEE International Symposium on Software Reliability Engineering (**ISSRE'24**), CCF-B, Full Paper, 2024.
 * **SolaSim: Clone Detection for Solana Smart Contracts via Program Representation**.\
