@@ -8,36 +8,37 @@ redirect_from:
 
 
 
-I’m Jiashuo Zhang (张家硕), a fourth-year Ph.D. student at Peking University, under the supervision of Prof. [Zhong Chen](https://cs.pku.edu.cn/info/1062/1605.htm). I obtained my Bachelor’s degree from the School of Computer Science at Peking University. Currently, I am working at the [InfoSec Lab](https://infosec.pku.edu.cn/) and  [Blockchain Research Center](https://brc.pku.edu.cn/), Peking University. I expect to graduate in 2026.
+I’m Jiashuo Zhang (张家硕), a final-year Ph.D. student at Peking University, under the supervision of Prof. [Zhong Chen](https://cs.pku.edu.cn/info/1062/1605.htm). I obtained my Bachelor’s degree from the School of Computer Science at Peking University. Currently, I am working at the [InfoSec Lab](https://infosec.pku.edu.cn/) and  [Blockchain Research Center](https://brc.pku.edu.cn/), Peking University. I expect to graduate in 2026.
 
 ## 🔥 News
 
-* **[2025-06]** Our paper titled "FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction" has been accepted by ICSE'26!
-* **[2025-05]** I win the presidential scholarship of Peking University (highest honor for Ph.D. students at PKU). Thanks for the recognition!
-* **[2025-05]** Invited to serve as a program committee member of APSEC 2025!
-* **[2025-04]** Our paper titled "Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts" receives ACM SIGSOFT Distinguished Paper Award at ICSE 2025. Thanks for the recognition!
-* **[2025-03]** Our paper titled "When Crypto Fails: Demystifying Cryptographic Defects in Ethereum Smart Contracts" has been accepted by TSE!
-* **[2025-01]** Invited to serve as a program committee member (artifact evaluation) of ASPLOS 2025!
-* **[2024-11]** Our paper titled "Automated Test Generation For Smart Contracts via On-Chain Test Case Augmentation and Migration" has been accepted by ICSE'25!
-* **[2024-10]** Invited to serve as a program committee member of MSR 2025!
-* **[2024-07]** Our paper titled "Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts" has been accepted by ICSE'25!
+* <span style="color:#AD371C">**[*2025-06*]**</span>🔥&nbsp;Our paper titled *"FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction"* has been accepted by ICSE'26!
+
+* <span style="color:#ad371c">**[*2025-05*]**</span>🔥&nbsp;I win the *presidential scholarship of Peking University* (highest honor for Ph.D. students at PKU). Thanks for the recognition!
+* <span style="color:#ad371c">**[*2025-05*]**</span>🔥&nbsp; Invited to serve as a program committee member of APSEC 2025!
+* <span style="color:#ad371c">**[*2025-04*]**</span>🔥&nbsp;Our paper titled *"Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts"* receives ACM SIGSOFT Distinguished Paper Award at ICSE 2025. Thanks for the recognition!
+* <span style="color:#ad371c">**[*2025-05*]**</span>🔥&nbsp;Our paper titled *"When Crypto Fails: Demystifying Cryptographic Defects in Ethereum Smart Contracts"* has been accepted by TSE!
+* <span style="color:#ad371c">**[*2025-01*]**</span>🔥Invited to serve as a program committee member (artifact evaluation) of ASPLOS 2025!
+* <span style="color:#ad371c">**[*2024-11*]**</span>🔥Our paper titled *"Automated Test Generation For Smart Contracts via On-Chain Test Case Augmentation and Migration"* has been accepted by ICSE'25!
+* <span style="color:#ad371c">**[*2024-11*]**</span>🔥 Invited to serve as a program committee member of MSR 2025!
+* <span style="color:#ad371c">**[*2024-07*]**</span>🔥 Our paper titled *"Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts"* has been accepted by ICSE'25!
 
 ## 🎓 Education
 
 * Peking University, Ph.D in Computer Science (Advisor: Prof. [Zhong Chen](https://cs.pku.edu.cn/info/1062/1605.htm)) 2021 – 2026 (expected)
 * Peking University, Bachelor in Computer Science, School of Computer Science. 2017 – 2021
 
-## 🎯 Research Interests
+## 🎯Research Interests
 
 My research interests include: 
 
 - **Software Security & Reliability** : LLM4SE; LLM4SEC; Vulnerability Detection; Software Anaysis/Testing; Empirical Study;
 - **Domain-Oriented Software Engeneering**: Smart Contract; Cryptographic Applications; Decentralized Applications; Cross-Chain Applications; Decentralized Identity Systems;
 
-## 📃 Recent Publications
+## 📃Recent Publications
 
 * **FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction.** \
-  Jiachi Chen, Yiming Shen, **Jiashuo Zhang**, Zihao Li, John Grundy, Zhenzhe Shao, Yanlin Wang, Jiashui Wang, Ting Chen, Zibin Zheng
+  Jiachi Chen, Yiming Shen, **Jiashuo Zhang***, Zihao Li, John Grundy, Zhenzhe Shao, Yanlin Wang, Jiashui Wang, Ting Chen*, Zibin Zheng
   The 48th International Conference on Software Engineering (**ICSE'26**), CCF-A, Full Paper, 2026.
 * **When Crypto Fails: Demystifying Cryptographic Defects in Ethereum Smart Contracts.** \
   **Jiashuo Zhang**, Yiming Shen, Jiachi Chen, Tao Zhang, Yanlin Wang, Ting Chen, Jianbo Gao and Zhong Chen. 
@@ -48,7 +49,7 @@ My research interests include:
 * **Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts**. \
   **Jiashuo Zhang**, Yiming Shen, Jiachi Chen, Jianzhong Su, Yanlin Wang, Ting Chen, Jianbo Gao and Zhong Chen.\
   The 47th International Conference on Software Engineering (**ICSE'25**), CCF-A, Full Paper, 2025.\
-  🏆 **ACM SIGSOFT Distinguished Paper Award**
+  🏆  <span style="color:#ad371c">**ACM SIGSOFT Distinguished Paper Award**</span>
 * **When Contracts Meets Crypto: Exploring Developers' Struggles with Ethereum Cryptographic APIs**. \
   **Jiashuo Zhang**, Jiachi Chen, Zhiyuan Wan, Ting Chen, Jianbo Gao and Zhong Chen. \
   The 46th International Conference on Software Engineering (**ICSE'24**), CCF-A, Full Paper, 2024.
@@ -69,6 +70,8 @@ My research interests include:
 
 - ACM SIGSOFT Distinguished Paper Award (ICSE, CCF-A) 2025
 - ACM SIGSOFT CAPS Travel Award, ICSE'25, 2025
+- Merit Student, Peking University, 2025
+- Tencent Scholarship, School of Computer Science, Peking University, 2025 
 - Presidential Scholarship of Peking University (highest honor for Ph.D. students at PKU), 2025
 - The Peking University Challenge Cup First-Class Award, Peking University, 2025
 - Peking University First-class Scholarship, Peking University, 2024
@@ -90,8 +93,17 @@ My research interests include:
 
 ##  💼 Service
 
+### Journal
+
+* Reviewer of IEEE Transactions on Dependable and Secure Computing (TDSC)
+* Reviewer of IEEE Transactions on Networking (ToN)
+* Reviewer of Automated Software Engeneering (AuSE)
+* Reviewer of Blockchain: Research and Applications (BCRA)
+* Reviewer of Chinese Journal of Electronics (CJE)
+
+### Conference
+
 - PC Member - Artifact Evaluation, ASPLOS 2025
 - PC Member - Junior PC, MSR 2025
 - PC Member, APSEC 2025
-- Reviewer, TDSC (CCF-A),  AuSE (CCF-B), BCRA (JCR-Q1), CJE (CCF-T1)
 - Sub-reviewer: ICSE, FSE, SANER, AuSE, SEKE
