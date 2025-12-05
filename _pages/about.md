@@ -12,16 +12,15 @@ I’m Jiashuo Zhang (张家硕), a final-year Ph.D. student at Peking University
 
 ## 🔥 News
 
+* <span style="color:#AD371C">**[*2025-11*]**</span>🔥&nbsp;Our paper titled *"Validity Is Not Enough: Uncovering the Security Pitfall in Chainlink's Off-Chain Reporting Protocol"* has been accepted by NDSS'26!
+* <span style="color:#ad371c">**[*2025-09*]**</span>🔥&nbsp;Our paper titled *"Demystifying Toxic Content on Ethereum"* receives Distinguished Paper Award at BWTAC 2025. Thanks for the recognition!
 * <span style="color:#AD371C">**[*2025-06*]**</span>🔥&nbsp;Our paper titled *"FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction"* has been accepted by ICSE'26!
-
 * <span style="color:#ad371c">**[*2025-05*]**</span>🔥&nbsp;I win the *presidential scholarship of Peking University* (highest honor for Ph.D. students at PKU). Thanks for the recognition!
 * <span style="color:#ad371c">**[*2025-05*]**</span>🔥&nbsp; Invited to serve as a program committee member of APSEC 2025!
 * <span style="color:#ad371c">**[*2025-04*]**</span>🔥&nbsp;Our paper titled *"Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts"* receives ACM SIGSOFT Distinguished Paper Award at ICSE 2025. Thanks for the recognition!
-* <span style="color:#ad371c">**[*2025-05*]**</span>🔥&nbsp;Our paper titled *"When Crypto Fails: Demystifying Cryptographic Defects in Ethereum Smart Contracts"* has been accepted by TSE!
+* <span style="color:#ad371c">**[*2025-03*]**</span>🔥&nbsp;Our paper titled *"When Crypto Fails: Demystifying Cryptographic Defects in Ethereum Smart Contracts"* has been accepted by TSE!
 * <span style="color:#ad371c">**[*2025-01*]**</span>🔥Invited to serve as a program committee member (artifact evaluation) of ASPLOS 2025!
 * <span style="color:#ad371c">**[*2024-11*]**</span>🔥Our paper titled *"Automated Test Generation For Smart Contracts via On-Chain Test Case Augmentation and Migration"* has been accepted by ICSE'25!
-* <span style="color:#ad371c">**[*2024-11*]**</span>🔥 Invited to serve as a program committee member of MSR 2025!
-* <span style="color:#ad371c">**[*2024-07*]**</span>🔥 Our paper titled *"Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts"* has been accepted by ICSE'25!
 
 ## 🎓 Education
 
@@ -35,8 +34,11 @@ My research interests include:
 - **Software Security & Reliability** : LLM4SE; LLM4SEC; Vulnerability Detection; Software Anaysis/Testing; Empirical Study;
 - **Domain-Oriented Software Engeneering**: Smart Contract; Cryptographic Applications; Decentralized Applications; Cross-Chain Applications; Decentralized Identity Systems;
 
-## 📃Recent Publications
+## 📃Recent Publicationsn ([Full List][https://zhangjiashuo.cn/publications/])
 
+* **Validity Is Not Enough: Uncovering the Security Pitfall in Chainlink's Off-Chain Reporting Protocol.** \
+  Di Zhai, **Jiashuo Zhang**, Jianbo Gao, Tianhao Liu, Tao Zhang, Jian Wang, Jiqiang Liu \
+  The 2026 Network and Distributed System Security Symposium (**NDSS'26**), CCF-A, Full Paper, 2026.
 * **FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction.** \
   Jiachi Chen, Yiming Shen, **Jiashuo Zhang***, Zihao Li, John Grundy, Zhenzhe Shao, Yanlin Wang, Jiashui Wang, Ting Chen*, Zibin Zheng
   The 48th International Conference on Software Engineering (**ICSE'26**), CCF-A, Full Paper, 2026.
@@ -49,7 +51,7 @@ My research interests include:
 * **Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts**. \
   **Jiashuo Zhang**, Yiming Shen, Jiachi Chen, Jianzhong Su, Yanlin Wang, Ting Chen, Jianbo Gao and Zhong Chen.\
   The 47th International Conference on Software Engineering (**ICSE'25**), CCF-A, Full Paper, 2025.\
-  🏆  <span style="color:#ad371c">**ACM SIGSOFT Distinguished Paper Award**</span>
+  🏆 **ACM SIGSOFT Distinguished Paper Award**
 * **When Contracts Meets Crypto: Exploring Developers' Struggles with Ethereum Cryptographic APIs**. \
   **Jiashuo Zhang**, Jiachi Chen, Zhiyuan Wan, Ting Chen, Jianbo Gao and Zhong Chen. \
   The 46th International Conference on Software Engineering (**ICSE'24**), CCF-A, Full Paper, 2024.

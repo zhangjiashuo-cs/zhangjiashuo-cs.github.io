@@ -8,6 +8,12 @@ redirect_from:
 
 [Google Scholar](https://scholar.google.com/citations?user=4MysZzYAAAAJ&hl=en)
 
+* **Validity Is Not Enough: Uncovering the Security Pitfall in Chainlink's Off-Chain Reporting Protocol.** \
+  Di Zhai, **Jiashuo Zhang**, Jianbo Gao, Tianhao Liu, Tao Zhang, Jian Wang, Jiqiang Liu \
+  The 2026 Network and Distributed System Security Symposium (**NDSS'26**), CCF-A, Full Paper, 2026.
+* **Heimdall: A Decentralized Access Control Scheme with Time-based Secret Management and Private Access Policies.**\
+  Libin Xia, Yue Li, **Jiashuo Zhang**, Jianbo Gao, Zhi Guan, Zhong Chen.\
+  The IEEE Transactions on Information Forensics and Security **(TIFS'25)**, CCF-A, Full Paper, 2025
 * **FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction.** \
   Jiachi Chen, Yiming Shen, **Jiashuo Zhang***, Zihao Li, John Grundy, Zhenzhe Shao, Yanlin Wang, Jiashui Wang, Ting Chen*, Zibin Zheng
   The 48th International Conference on Software Engineering (**ICSE'26**), CCF-A, Full Paper, 2026.
@@ -24,9 +30,6 @@ redirect_from:
 * **Blockchain-enabled AI collaboration** (Position Paper).\
   **Jiashuo Zhang**, Yuqi Zhang, Ting Zhang, Jianbo Gao, Zhong Chen.\
   The 2nd International Workshop on Generative AI and Hyper Intelligence, position paper, 2025
-* **Heimdall: A Decentralized Access Control Scheme with Time-based Secret Management and Private Access Policies.**\
-  Libin Xia, Yue Li, **Jiashuo Zhang**, Jianbo Gao, Zhi Guan, Zhong Chen.\
-  The IEEE Transactions on Information Forensics and Security **(TIFS'25)**, CCF-A, Full Paper, 2025
 * **When Contracts Meets Crypto: Exploring Developers' Struggles with Ethereum Cryptographic APIs**. \
   **Jiashuo Zhang**, Jiachi Chen, Zhiyuan Wan, Ting Chen, Jianbo Gao and Zhong Chen. \
   The 46th International Conference on Software Engineering (**ICSE'24**), CCF-A, Full Paper, 2024.
