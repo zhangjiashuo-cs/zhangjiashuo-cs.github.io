@@ -34,7 +34,7 @@ My research interests include:
 - **Software Security & Reliability** : LLM4SE; LLM4SEC; Vulnerability Detection; Software Anaysis/Testing; Empirical Study;
 - **Domain-Oriented Software Engeneering**: Smart Contract; Cryptographic Applications; Decentralized Applications; Cross-Chain Applications; Decentralized Identity Systems;
 
-## 📃Recent Publicationsn ([Full List][https://zhangjiashuo.cn/publications/])
+## 📃Recent Publicationsn ([Full List](https://zhangjiashuo.cn/publications/))
 
 * **Validity Is Not Enough: Uncovering the Security Pitfall in Chainlink's Off-Chain Reporting Protocol.** \
   Di Zhai, **Jiashuo Zhang**, Jianbo Gao, Tianhao Liu, Tao Zhang, Jian Wang, Jiqiang Liu \
@@ -73,6 +73,7 @@ My research interests include:
 - ACM SIGSOFT Distinguished Paper Award (ICSE, CCF-A) 2025
 - ACM SIGSOFT CAPS Travel Award, ICSE'25, 2025
 - Merit Student, Peking University, 2025
+- BWTAC Distinguished Paper Award, 2025
 - Tencent Scholarship, School of Computer Science, Peking University, 2025 
 - Presidential Scholarship of Peking University (highest honor for Ph.D. students at PKU), 2025
 - The Peking University Challenge Cup First-Class Award, Peking University, 2025
