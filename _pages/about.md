@@ -40,7 +40,7 @@ My research interests include:
   Di Zhai, **Jiashuo Zhang**, Jianbo Gao, Tianhao Liu, Tao Zhang, Jian Wang, Jiqiang Liu \
   The 2026 Network and Distributed System Security Symposium (**NDSS'26**), CCF-A, Full Paper, 2026.
 * **FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction.** \
-  Jiachi Chen, Yiming Shen, **Jiashuo Zhang***, Zihao Li, John Grundy, Zhenzhe Shao, Yanlin Wang, Jiashui Wang, Ting Chen*, Zibin Zheng
+  Jiachi Chen, Yiming Shen, **Jiashuo Zhang\***, Zihao Li, John Grundy, Zhenzhe Shao, Yanlin Wang, Jiashui Wang, Ting Chen\*, Zibin Zheng
   The 48th International Conference on Software Engineering (**ICSE'26**), CCF-A, Full Paper, 2026.
 * **When Crypto Fails: Demystifying Cryptographic Defects in Ethereum Smart Contracts.** \
   **Jiashuo Zhang**, Yiming Shen, Jiachi Chen, Tao Zhang, Yanlin Wang, Ting Chen, Jianbo Gao and Zhong Chen. 
@@ -71,11 +71,11 @@ My research interests include:
 ##   🏆 Honors and Awards
 
 - ACM SIGSOFT Distinguished Paper Award (ICSE, CCF-A) 2025
-- ACM SIGSOFT CAPS Travel Award, ICSE'25, 2025
+- Presidential Scholarship of Peking University (highest honor for Ph.D. students at PKU), 2025
 - Merit Student, Peking University, 2025
 - BWTAC Distinguished Paper Award, 2025
 - Tencent Scholarship, School of Computer Science, Peking University, 2025 
-- Presidential Scholarship of Peking University (highest honor for Ph.D. students at PKU), 2025
+- ACM SIGSOFT CAPS Travel Award, ICSE'25, 2025
 - The Peking University Challenge Cup First-Class Award, Peking University, 2025
 - Peking University First-class Scholarship, Peking University, 2024
 - Merit Student, Peking University, 2024
@@ -101,6 +101,7 @@ My research interests include:
 * Reviewer of IEEE Transactions on Dependable and Secure Computing (TDSC)
 * Reviewer of IEEE Transactions on Networking (ToN)
 * Reviewer of Automated Software Engeneering (AuSE)
+* Reviewer of Expert Systems with Applications (ESWA)
 * Reviewer of Blockchain: Research and Applications (BCRA)
 * Reviewer of Chinese Journal of Electronics (CJE)
 
