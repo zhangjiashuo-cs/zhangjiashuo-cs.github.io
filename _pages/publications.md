@@ -14,8 +14,11 @@ redirect_from:
 * **Heimdall: A Decentralized Access Control Scheme with Time-based Secret Management and Private Access Policies.**\
   Libin Xia, Yue Li, **Jiashuo Zhang**, Jianbo Gao, Zhi Guan, Zhong Chen.\
   The IEEE Transactions on Information Forensics and Security **(TIFS'25)**, CCF-A, Full Paper, 2025
+* **Demystifying Toxic Content in Ethereum Transactions.** 
+  Yuqi Zhang, **Jiashuo Zhang**, Ting Zhang, Jianbo Gao, Zhong Chen. 
+  International Conference on Blockchain and Web3.0 Technology Innovation and Application (**BWTAC'26**), 2025. **Distinguished Paper Award**
 * **FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction.** \
-  Jiachi Chen, Yiming Shen, **Jiashuo Zhang***, Zihao Li, John Grundy, Zhenzhe Shao, Yanlin Wang, Jiashui Wang, Ting Chen*, Zibin Zheng
+  Jiachi Chen, Yiming Shen, **Jiashuo Zhang\***, Zihao Li, John Grundy, Zhenzhe Shao, Yanlin Wang, Jiashui Wang, Ting Chen\*, Zibin Zheng
   The 48th International Conference on Software Engineering (**ICSE'26**), CCF-A, Full Paper, 2026.
 * **When Crypto Fails: Demystifying Cryptographic Defects in Ethereum Smart Contracts.** \
   **Jiashuo Zhang**, Yiming Shen, Jiachi Chen, Tao Zhang, Yanlin Wang, Ting Chen, Jianbo Gao and Zhong Chen. 
