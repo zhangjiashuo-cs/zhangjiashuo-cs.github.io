@@ -4,6 +4,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
 ---
 
 
@@ -37,11 +38,14 @@ My research interests include:
 ## 📃Recent Publicationsn ([Full List](https://zhangjiashuo.cn/publications/))
 
 * **Validity Is Not Enough: Uncovering the Security Pitfall in Chainlink's Off-Chain Reporting Protocol.** \
-  Di Zhai, **Jiashuo Zhang**, Jianbo Gao, Tianhao Liu, Tao Zhang, Jian Wang, Jiqiang Liu \
+  Di Zhai, **Jiashuo Zhang\***, Jianbo Gao\*, Tianhao Liu, Tao Zhang, Jian Wang, Jiqiang Liu\* \
   The 2026 Network and Distributed System Security Symposium (**NDSS'26**), CCF-A, Full Paper, 2026.
 * **FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction.** \
   Jiachi Chen, Yiming Shen, **Jiashuo Zhang\***, Zihao Li, John Grundy, Zhenzhe Shao, Yanlin Wang, Jiashui Wang, Ting Chen\*, Zibin Zheng
   The 48th International Conference on Software Engineering (**ICSE'26**), CCF-A, Full Paper, 2026.
+* **Towards Secure Oracle Usage: Understanding and Detecting Oracle Vulnerabilities in Smart Contracts**.\
+   Ziming Chen, Yue Li, **Jiashuo Zhang**, Jianbo Gao, Che Wang, Jiakun Hao, Anming Xie, Zhi Guan, Zhong Chen.\
+  The 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (**SANER'26**), CCF-B, Full Paper, 2026.
 * **When Crypto Fails: Demystifying Cryptographic Defects in Ethereum Smart Contracts.** \
   **Jiashuo Zhang**, Yiming Shen, Jiachi Chen, Tao Zhang, Yanlin Wang, Ting Chen, Jianbo Gao and Zhong Chen. 
   IEEE Transactions on Software Engineering (**TSE'25**), CCF-A, Full Paper, 2025.
