@@ -5,6 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 
+
 ---
 
 
@@ -13,6 +14,7 @@ I’m Jiashuo Zhang (张家硕), a final-year Ph.D. student at Peking University
 
 ## 🔥 News
 
+* <span style="color:#AD371C">**[*2026-01*]**</span>🔥&nbsp;Our paper titled *"Lost in Blockchain Address Misuse: Hidden Cross-Platform Risks and Their Security Impact"* has been accepted by Security'26!
 * <span style="color:#AD371C">**[*2025-11*]**</span>🔥&nbsp;Our paper titled *"Validity Is Not Enough: Uncovering the Security Pitfall in Chainlink's Off-Chain Reporting Protocol"* has been accepted by NDSS'26!
 * <span style="color:#ad371c">**[*2025-09*]**</span>🔥&nbsp;Our paper titled *"Demystifying Toxic Content on Ethereum"* receives Distinguished Paper Award at BWTAC 2025. Thanks for the recognition!
 * <span style="color:#AD371C">**[*2025-06*]**</span>🔥&nbsp;Our paper titled *"FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction"* has been accepted by ICSE'26!
@@ -40,11 +42,14 @@ My research interests include:
 * **Validity Is Not Enough: Uncovering the Security Pitfall in Chainlink's Off-Chain Reporting Protocol.** \
   Di Zhai, **Jiashuo Zhang\***, Jianbo Gao\*, Tianhao Liu, Tao Zhang, Jian Wang and Jiqiang Liu.\* \
   The 2026 Network and Distributed System Security Symposium (**NDSS'26**), CCF-A, Full Paper, 2026.
+* **Lost in Blockchain Address Misuse: Hidden Cross-Platform Risks and Their Security Impact.** \
+  Zhenzhe Shao, **Jiashuo Zhang**, Zihao Li, Daoyuan Wu, Chong Chen, Yiming Shen, Lingfeng Bao, Yanlin Wang, Jiachi Chen. \
+  The 2026 USENIX Security Symposium (**Security'26**), CCF-A, Full Paper, 2026.
 * **FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction.** \
   Jiachi Chen, Yiming Shen, **Jiashuo Zhang\***, Zihao Li, John Grundy, Zhenzhe Shao, Yanlin Wang, Jiashui Wang, Ting Chen\* and Zibin Zheng.\
   The 48th International Conference on Software Engineering (**ICSE'26**), CCF-A, Full Paper, 2026.
 * **Towards Secure Oracle Usage: Understanding and Detecting Oracle Vulnerabilities in Smart Contracts**.\
-   Ziming Chen, Yue Li, **Jiashuo Zhang**, Jianbo Gao, Che Wang, Jiakun Hao, Anming Xie, Zhi Guan and Zhong Chen.\
+  Ziming Chen, Yue Li, **Jiashuo Zhang**, Jianbo Gao, Che Wang, Jiakun Hao, Anming Xie, Zhi Guan and Zhong Chen.\
   The 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (**SANER'26**), CCF-B, Full Paper, 2026.
 * **When Crypto Fails: Demystifying Cryptographic Defects in Ethereum Smart Contracts.** \
   **Jiashuo Zhang**, Yiming Shen, Jiachi Chen, Tao Zhang, Yanlin Wang, Ting Chen, Jianbo Gao and Zhong Chen.\
