@@ -6,6 +6,7 @@ redirect_from:
   - /about.html
 
 
+
 ---
 
 
@@ -14,6 +15,7 @@ I’m Jiashuo Zhang (张家硕), a final-year Ph.D. student at Peking University
 
 ## 🔥 News
 
+* <span style="color:#AD371C">**[*2026-03*]**</span>🔥&nbsp;Our paper titled *"Detecting Code-Comment Inconsistencies in Smart Contracts by Combining LLM and Program Analysis"* has been accepted by FSE'26!
 * <span style="color:#AD371C">**[*2026-01*]**</span>🔥&nbsp;Our paper titled *"Lost in Blockchain Address Misuse: Hidden Cross-Platform Risks and Their Security Impact"* has been accepted by Security'26!
 * <span style="color:#AD371C">**[*2025-11*]**</span>🔥&nbsp;Our paper titled *"Validity Is Not Enough: Uncovering the Security Pitfall in Chainlink's Off-Chain Reporting Protocol"* has been accepted by NDSS'26!
 * <span style="color:#ad371c">**[*2025-09*]**</span>🔥&nbsp;Our paper titled *"Demystifying Toxic Content on Ethereum"* receives Distinguished Paper Award at BWTAC 2025. Thanks for the recognition!
@@ -34,11 +36,14 @@ I’m Jiashuo Zhang (张家硕), a final-year Ph.D. student at Peking University
 
 My research interests include: 
 
-- **Software Security & Reliability** : LLM4SE; LLM4SEC; Vulnerability Detection; Software Anaysis/Testing; Empirical Study;
-- **Domain-Oriented Software Engeneering**: Smart Contract; Cryptographic Applications; Decentralized Applications; Cross-Chain Applications; Decentralized Identity Systems;
+- **Software Security & Reliability** : LLM4SE; LLM4SEC; Vulnerability Detection; Software Anaysis; Software Testing;
+- **Domain-Oriented Software Engeneering**: Blockchain; Smart Contracts; Decentralized Applications;
 
 ## 📃Recent Publicationsn ([Full List](https://zhangjiashuo.cn/publications/))
 
+* **Detecting Code-Comment Inconsistencies in Smart Contracts by Combining LLM and Program Analysis.**\
+  **Jiashuo Zhang**, Jiachi Chen, Ting Zhang, Yue Li, Daoyuan Wu, Yanlin Wang, Jianbo Gao, Ting Chen, Zhong Chen.\
+  The 2026 ACM International Conference on the Foundations of Software Engineering (**FSE'26**), CCF-A, Full Paper, 2026.
 * **Validity Is Not Enough: Uncovering the Security Pitfall in Chainlink's Off-Chain Reporting Protocol.** \
   Di Zhai, **Jiashuo Zhang\***, Jianbo Gao\*, Tianhao Liu, Tao Zhang, Jian Wang and Jiqiang Liu.\* \
   The 2026 Network and Distributed System Security Symposium (**NDSS'26**), CCF-A, Full Paper, 2026.
@@ -64,18 +69,6 @@ My research interests include:
 * **When Contracts Meets Crypto: Exploring Developers' Struggles with Ethereum Cryptographic APIs**. \
   **Jiashuo Zhang**, Jiachi Chen, Zhiyuan Wan, Ting Chen, Jianbo Gao and Zhong Chen. \
   The 46th International Conference on Software Engineering (**ICSE'24**), CCF-A, Full Paper, 2024.
-* **ContractTinker: LLM-Empowered Vulnerability Repair for Real-World Smart Contracts**. \
-  Che Wang, **Jiashuo Zhang** , Jianbo Gao, Libin Xia, Zhi Guan and Zhong Chen. \
-  The 39th IEEE/ACM International Conference on Automated Software Engineering, (**ASE'24**), CCF-A, Short Paper, 2024.
-* **A Sharding Blockchain-based UAV System for Search and Rescue Missions**. \
-  Xihan Zhang, **Jiashuo Zhang**, Jianbo Gao, Libin Xia, Zhi Guan, Hao Hu and Zhong Chen. \
-  Frontiers of Computer Science (**FCS'24**), CCF-B, Full Paper, 2024.
-* **Understanding and Detecting Privacy Leakage Vulnerabilities in Hyperledger Fabric Chaincodes**. \
-  Ziming Chen, Yue Li, Jianbo Gao, **Jiashuo Zhang**, Ke Wang, Jianbin Hu, Zhi Guan, Zhong Chen. \
-  The 35th IEEE International Symposium on Software Reliability Engineering (**ISSRE'24**), CCF-B, Full Paper, 2024.
-* **SolaSim: Clone Detection for Solana Smart Contracts via Program Representation**.\
-  Che Wang, Yue Li, Jianbo Gao, Ke Wang, **Jiashuo Zhang**, Zhi Guan and Zhong Chen. \
-  The 32nd IEEE/ACM International Conference on Program Comprehension (**ICPC'24**), CCF-B, Full Paper, 2024. 
 
 ##   🏆 Honors and Awards
 
