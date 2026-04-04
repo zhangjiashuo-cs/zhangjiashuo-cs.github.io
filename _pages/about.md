@@ -13,8 +13,9 @@ redirect_from:
 
 I’m Jiashuo Zhang (张家硕), a final-year Ph.D. student at Peking University, under the supervision of Prof. [Zhong Chen](https://cs.pku.edu.cn/info/1062/1605.htm). I obtained my Bachelor’s degree from the School of Computer Science at Peking University. Currently, I am working at the [InfoSec Lab](https://infosec.pku.edu.cn/) and  [Blockchain Research Center](https://brc.pku.edu.cn/), Peking University. I expect to graduate in 2026.
 
-## 🔥 News
+# 🔥 News
 
+* <span style="color:#AD371C">**[*2026-04*]**</span>🔥We released Clawd-Code, a LEGO-style project that reconstructs Claude Code in Python[![img](https://img.shields.io/github/stars/GPT-AGI/Clawd-Code?style=flat-square&logo=github&label=Clawd-Code)](https://github.com/GPT-AGI/Clawd-Code) Welcome to contribute!
 * <span style="color:#AD371C">**[*2026-03*]**</span>🔥&nbsp;Our paper titled *"Detecting Code-Comment Inconsistencies in Smart Contracts by Combining LLM and Program Analysis"* has been accepted by FSE'26!
 * <span style="color:#AD371C">**[*2026-01*]**</span>🔥&nbsp;Our paper titled *"Lost in Blockchain Address Misuse: Hidden Cross-Platform Risks and Their Security Impact"* has been accepted by Security'26!
 * <span style="color:#AD371C">**[*2025-11*]**</span>🔥&nbsp;Our paper titled *"Validity Is Not Enough: Uncovering the Security Pitfall in Chainlink's Off-Chain Reporting Protocol"* has been accepted by NDSS'26!
@@ -27,19 +28,19 @@ I’m Jiashuo Zhang (张家硕), a final-year Ph.D. student at Peking University
 * <span style="color:#ad371c">**[*2025-01*]**</span>🔥Invited to serve as a program committee member (artifact evaluation) of ASPLOS 2025!
 * <span style="color:#ad371c">**[*2024-11*]**</span>🔥Our paper titled *"Automated Test Generation For Smart Contracts via On-Chain Test Case Augmentation and Migration"* has been accepted by ICSE'25!
 
-## 🎓 Education
+# 🎓 Education
 
 * Peking University, Ph.D in Computer Science (Advisor: Prof. [Zhong Chen](https://cs.pku.edu.cn/info/1062/1605.htm)) 2021 – 2026 (expected)
 * Peking University, Bachelor in Computer Science, School of Computer Science. 2017 – 2021
 
-## 🎯Research Interests
+# 🎯Research Interests
 
 My research interests include: 
 
 - **Software Security & Reliability** : LLM4SE; LLM4SEC; Vulnerability Detection; Software Anaysis; Software Testing;
 - **Domain-Oriented Software Engeneering**: Blockchain; Smart Contracts; Decentralized Applications;
 
-## 📃Recent Publicationsn ([Full List](https://zhangjiashuo.cn/publications/))
+# 📃Recent Publicationsn ([Full List](https://zhangjiashuo.cn/publications/))
 
 * **Detecting Code-Comment Inconsistencies in Smart Contracts by Combining LLM and Program Analysis.**\
   **Jiashuo Zhang**, Jiachi Chen, Ting Zhang, Yue Li, Daoyuan Wu, Yanlin Wang, Jianbo Gao, Ting Chen, Zhong Chen.\
@@ -70,7 +71,7 @@ My research interests include:
   **Jiashuo Zhang**, Jiachi Chen, Zhiyuan Wan, Ting Chen, Jianbo Gao and Zhong Chen. \
   The 46th International Conference on Software Engineering (**ICSE'24**), CCF-A, Full Paper, 2024.
 
-##   🏆 Honors and Awards
+#   🏆 Honors and Awards
 
 - ACM SIGSOFT Distinguished Paper Award (ICSE, CCF-A) 2025
 - Presidential Scholarship of Peking University (highest honor for Ph.D. students at PKU), 2025
@@ -90,15 +91,15 @@ My research interests include:
 - Merit Student, Peking University, 2020
 - The Third Prize of Peking University Scholarship, Peking University, 2020
 
-##  🏫 Teaching Experience
+#  🏫 Teaching Experience
 
 - Introduction to Information Security (Undergraduate), TA, Fall 2022, Peking University 
 - Data Structures and Algorithms (Undergraduate), TA, Spring 2022, Peking University 
 - Introduction to Information Security (Undergraduate), TA, Fall 2021, Peking University 
 
-##  💼 Service
+#  💼 Service
 
-### Journal
+## Journal
 
 * Reviewer of IEEE Transactions on Dependable and Secure Computing (TDSC)
 * Reviewer of IEEE Transactions on Networking (ToN)
@@ -107,7 +108,7 @@ My research interests include:
 * Reviewer of Blockchain: Research and Applications (BCRA)
 * Reviewer of Chinese Journal of Electronics (CJE)
 
-### Conference
+## Conference
 
 - PC Member - Artifact Evaluation, ASPLOS 2025
 - PC Member - Junior PC, MSR 2025
