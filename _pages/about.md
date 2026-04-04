@@ -15,7 +15,7 @@ I’m Jiashuo Zhang (张家硕), a final-year Ph.D. student at Peking University
 
 # 🔥 News
 
-* <span style="color:#AD371C">**[*2026-04*]**</span>🔥We released Clawd-Code, a LEGO-style project that reconstructs Claude Code in Python[![img](https://img.shields.io/github/stars/GPT-AGI/Clawd-Code?style=flat-square&logo=github&label=Clawd-Code)](https://github.com/GPT-AGI/Clawd-Code) Welcome to contribute!
+* <span style="color:#AD371C">**[*2026-04*]**</span>🔥We released Clawd-Code, a LEGO-style project that reconstructs Claude Code in Python [![img](https://img.shields.io/github/stars/GPT-AGI/Clawd-Code?style=flat-square&logo=github&label=Clawd-Code)](https://github.com/GPT-AGI/Clawd-Code). Welcome to contribute!
 * <span style="color:#AD371C">**[*2026-03*]**</span>🔥&nbsp;Our paper titled *"Detecting Code-Comment Inconsistencies in Smart Contracts by Combining LLM and Program Analysis"* has been accepted by FSE'26!
 * <span style="color:#AD371C">**[*2026-01*]**</span>🔥&nbsp;Our paper titled *"Lost in Blockchain Address Misuse: Hidden Cross-Platform Risks and Their Security Impact"* has been accepted by Security'26!
 * <span style="color:#AD371C">**[*2025-11*]**</span>🔥&nbsp;Our paper titled *"Validity Is Not Enough: Uncovering the Security Pitfall in Chainlink's Off-Chain Reporting Protocol"* has been accepted by NDSS'26!
