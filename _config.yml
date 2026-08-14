@@ -11,8 +11,8 @@ locale                   : "en-US"
 title                    : "Jiashuo Zhang"
 title_separator          : "-"
 name                     : &name "Jiashuo Zhang"
-description              : &description "personal description"
-url                      : https://zhangjiashuo-cs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Algorithm Expert at Skyward Lab, Ant Group, working on training, LLM4Security, and cyber capabilities of Ling and other models."
+url                      : https://zhangjiashuo.cn # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhangjiashuo-cs/zhangjiashuo-cs.github.io"
 
@@ -24,10 +24,10 @@ author:
   avatar           : "zjs.jpg"
   name             : "Jiashuo Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Final-year Ph.D. student, Peking University"
-  location         : "Beijing, China"
-  employer         : "Peking University"
-  uri              : # URL
+  bio              : "Algorithm Expert, Skyward Lab @ Ant Group"
+  location         : "China"
+  employer         : "Ant Group"
+  uri              : "https://zhangjiashuo.cn"
   email            : "zhangjiashuo@pku.edu.cn" 
 
   # Academic websites

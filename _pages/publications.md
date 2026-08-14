@@ -8,18 +8,27 @@ redirect_from:
 
 [Google Scholar](https://scholar.google.com/citations?user=4MysZzYAAAAJ&hl=en)
 
+* **Detecting Code-Comment Inconsistencies in Smart Contracts by Combining LLM and Program Analysis.**\
+  **Jiashuo Zhang**, Jiachi Chen, Ting Zhang, Yue Li, Daoyuan Wu, Yanlin Wang, Jianbo Gao, Ting Chen, Zhong Chen.\
+  The 2026 ACM International Conference on the Foundations of Software Engineering (**FSE'26**), CCF-A, Full Paper, 2026.
 * **Validity Is Not Enough: Uncovering the Security Pitfall in Chainlink's Off-Chain Reporting Protocol.** \
-  Di Zhai, **Jiashuo Zhang**, Jianbo Gao, Tianhao Liu, Tao Zhang, Jian Wang, Jiqiang Liu \
+  Di Zhai, **Jiashuo Zhang\***, Jianbo Gao\*, Tianhao Liu, Tao Zhang, Jian Wang and Jiqiang Liu.\* \
   The 2026 Network and Distributed System Security Symposium (**NDSS'26**), CCF-A, Full Paper, 2026.
+* **Lost in Blockchain Address Misuse: Hidden Cross-Platform Risks and Their Security Impact.** \
+  Zhenzhe Shao, **Jiashuo Zhang**, Zihao Li, Daoyuan Wu, Chong Chen, Yiming Shen, Lingfeng Bao, Yanlin Wang, Jiachi Chen. \
+  The 2026 USENIX Security Symposium (**Security'26**), CCF-A, Full Paper, 2026.
+* **FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction.** \
+  Jiachi Chen, Yiming Shen, **Jiashuo Zhang\***, Zihao Li, John Grundy, Zhenzhe Shao, Yanlin Wang, Jiashui Wang, Ting Chen\* and Zibin Zheng.\
+  The 48th International Conference on Software Engineering (**ICSE'26**), CCF-A, Full Paper, 2026.
+* **Towards Secure Oracle Usage: Understanding and Detecting Oracle Vulnerabilities in Smart Contracts**.\
+  Ziming Chen, Yue Li, **Jiashuo Zhang**, Jianbo Gao, Che Wang, Jiakun Hao, Anming Xie, Zhi Guan and Zhong Chen.\
+  The 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (**SANER'26**), CCF-B, Full Paper, 2026.
 * **Heimdall: A Decentralized Access Control Scheme with Time-based Secret Management and Private Access Policies.**\
   Libin Xia, Yue Li, **Jiashuo Zhang**, Jianbo Gao, Zhi Guan, Zhong Chen.\
-  The IEEE Transactions on Information Forensics and Security **(TIFS'25)**, CCF-A, Full Paper, 2025
+  IEEE Transactions on Information Forensics and Security (**TIFS'25**), CCF-A, Full Paper, 2025.
 * **Demystifying Toxic Content in Ethereum Transactions.** 
   Yuqi Zhang, **Jiashuo Zhang**, Ting Zhang, Jianbo Gao, Zhong Chen. 
-  International Conference on Blockchain and Web3.0 Technology Innovation and Application (**BWTAC'26**), 2025. **Distinguished Paper Award**
-* **FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction.** \
-  Jiachi Chen, Yiming Shen, **Jiashuo Zhang\***, Zihao Li, John Grundy, Zhenzhe Shao, Yanlin Wang, Jiashui Wang, Ting Chen\*, Zibin Zheng
-  The 48th International Conference on Software Engineering (**ICSE'26**), CCF-A, Full Paper, 2026.
+  International Conference on Blockchain and Web3.0 Technology Innovation and Application (**BWTAC'25**), 2025. **Distinguished Paper Award**
 * **When Crypto Fails: Demystifying Cryptographic Defects in Ethereum Smart Contracts.** \
   **Jiashuo Zhang**, Yiming Shen, Jiachi Chen, Tao Zhang, Yanlin Wang, Ting Chen, Jianbo Gao and Zhong Chen. 
   IEEE Transactions on Software Engineering (**TSE'25**), CCF-A, Full Paper, 2025.
@@ -32,7 +41,7 @@ redirect_from:
   🏆 **ACM SIGSOFT Distinguished Paper Award**
 * **Blockchain-enabled AI collaboration** (Position Paper).\
   **Jiashuo Zhang**, Yuqi Zhang, Ting Zhang, Jianbo Gao, Zhong Chen.\
-  The 2nd International Workshop on Generative AI and Hyper Intelligence, position paper, 2025
+  The 2nd International Workshop on Generative AI and Hyper Intelligence, Position Paper, 2025.
 * **When Contracts Meets Crypto: Exploring Developers' Struggles with Ethereum Cryptographic APIs**. \
   **Jiashuo Zhang**, Jiachi Chen, Zhiyuan Wan, Ting Chen, Jianbo Gao and Zhong Chen. \
   The 46th International Conference on Software Engineering (**ICSE'24**), CCF-A, Full Paper, 2024.
@@ -59,14 +68,14 @@ redirect_from:
   The 39th Annual Computer Security Applications Conference (ACSAC'24), CCF-B, Full Paper, 2024.
 * **Siguard: Detecting Signature-Related Vulnerabilities in Smart Contracts.** \
   **Jiashuo Zhang**, Yue Li, Jianbo Gao, Zhi Guan, Zhong Chen. \
-  The 45th International Conference on Software Engineering (**ICSE'23**), CCF-A, Short Paper, 2023
+  The 45th International Conference on Software Engineering (**ICSE'23**), CCF-A, Short Paper, 2023.
 * **TDID: Transparent and Efficient Decentralized Identity Management with Blockchain.**
   Jiakun Hao, Jianbo Gao, Peng Xiang, **Jiashuo Zhang**, Ziming Chen, Hao Hu, Zhong Chen.
   The IEEE International Conference on Systems, Man, and Cybernetics (**SMC'23**), CCF-C, Full Paper, 2023.
 * **Detection Method for Rule Conflicts in RegLang Regulatory Contracts.**
   Jianbo Gao, **Jiashuo Zhang**, Qingshan Li, Zhong Chen.
   Computer Engineering (In Chinese), CCF-T2, 2023
-* **RegLang:A Smart Contract Programming Language for Regulation.**
+* **RegLang: A Smart Contract Programming Language for Regulation.**
   Jianbo Gao, **Jiashuo Zhang**, Qingshan Li, Zhong Chen.
   Computer Science (In Chinese), CCF-T2, 2023
 * **Xscope: Hunting for cross-chain bridge attacks.** \
@@ -74,7 +83,7 @@ redirect_from:
   The 37th IEEE/ACM International Conference on Automated Software Engineering (**ASE'22**), CCF-A, Short Paper, 2022.
 * **Pshard: a practical sharding protocol for enterprise blockchain** .\
   Jianbo Gao, **Jiashuo Zhang**, Yue Li, Jiakun Hao, Ke Wang, Zhi Guan, Zhong Chen. \
-  The 5th International Conference on Blockchain Technology and Applications (**ICBTA'25**), Full Paper, 2025
+  The 5th International Conference on Blockchain Technology and Applications (**ICBTA'25**), Full Paper, 2025.
 * **ChainDB: Ensuring Integrity of Querying Off-Chain Data on Blockchain** .\
   Jianbo Gao, **Jiashuo Zhang**, Yue Li, Jiakun Hao, Ke Wang, Zhi Guan, Zhong Chen. \
   The 5th International Conference on Blockchain Technology and Applications (**ICBTA'25**), Full Paper, 2025 (**Best Presentation Award**)
