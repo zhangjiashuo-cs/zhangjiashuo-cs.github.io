@@ -6,9 +6,9 @@ redirect_from:
   - /about.html
 ---
 
-I’m Jiashuo Zhang (张家硕). I am currently an Algorithm Expert at Skyward Lab @ Ant Group (Ant Talent Program). My work focuses on training and LLM4Security. I work on training LLMs, including Ling (Ant Group's base model) and other models, to improve their cyber capabilities in vulnerability detection, exploitation, and repair. Before joining Ant Group, I received my Ph.D. in Computer Science from Peking University under the supervision of Prof. [Zhong Chen](https://cs.pku.edu.cn/info/1062/1605.htm), and obtained my Bachelor’s degree from the School of Computer Science at Peking University.
+I’m Jiashuo Zhang (张家硕). I am currently an algorithm expert at Skyward Lab @ Ant Group (Ant Star Program). My work focuses on post-training and LLM4Security. I work on training LLMs, including Ling (Ant Group's base model) and other models, to improve their cyber security capabilities. Before joining Ant Group, I received my Ph.D. in Computer Science from Peking University under the supervision of Prof. [Zhong Chen](https://cs.pku.edu.cn/info/1062/1605.htm), and obtained my Bachelor’s degree from the School of Computer Science at Peking University.
 
-<span style="color:#AD371C">**Research Interns:**</span> We are looking for highly motivated research interns interested in **LLM training** and **LLM4Security**. Please feel free to email me your CV at [zjs538737@alibaba-inc.com](mailto:zjs538737@alibaba-inc.com).
+<span style="color:#AD371C">**Research Interns:**</span> We are looking for highly motivated research interns interested in **Post-Training** and **LLM4Security**. Please feel free to email me your CV at [zjs538737@alibaba-inc.com](mailto:zjs538737@alibaba-inc.com).
 
 # 🔥 News
 
@@ -113,7 +113,7 @@ My research interests include:
 ## Conference
 
 - PC Member, APSEC 2026 (ERA Track)
-- Junior PC Member, ICSE 2026
+- Shadow PC Member, ICSE 2027
 - PC Member - Artifact Evaluation, ASPLOS 2025
 - PC Member - Junior PC, MSR 2025
 - PC Member, APSEC 2025
