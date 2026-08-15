@@ -8,7 +8,7 @@ redirect_from:
 
 I’m Jiashuo Zhang (张家硕). I am currently an algorithm expert at Skyward Lab @ Ant Group (Ant Star Program). My work focuses on post-training and LLM4Security. I work on training LLMs, including [Ling](https://www.ant-ling.com/en/) and other models, to improve their cyber security capabilities. Before joining Ant Group, I received my Ph.D. in Computer Science from Peking University under the supervision of Prof. [Zhong Chen](https://cs.pku.edu.cn/info/1062/1605.htm), and obtained my Bachelor’s degree from the School of Computer Science at Peking University.
 
-<span style="color:#AD371C">**Research Interns:**</span> We are looking for highly motivated research interns interested in **Post-Training** and **LLM4Security**. Please feel free to email me your CV at [zjs538737@alibaba-inc.com](mailto:zjs538737@alibaba-inc.com).
+<span style="color:#AD371C">**Research Interns:**</span> We are looking for highly motivated research interns interested in **Post-Training** and **LLM4Security**. Please feel free to email me your CV at <a href="mailto:zjs538737@alibaba-inc.com">zjs538737@alibaba-inc.com</a>.
 
 # 🔥 News
 
