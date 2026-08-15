@@ -31,7 +31,7 @@ I’m Jiashuo Zhang (张家硕). I am currently an algorithm expert at Skyward L
 # 🎓 Education
 
 * Peking University, Ph.D. in Computer Science (Advisor: Prof. [Zhong Chen](https://cs.pku.edu.cn/info/1062/1605.htm)) 2021 – 2026
-* Peking University, Bachelor in Computer Science, School of Computer Science. 2017 – 2021
+* Peking University, Bachelor in Computer Science, School of Computer Science (Advisor: Prof. [Zhong Chen](https://cs.pku.edu.cn/info/1062/1605.htm)) 2017 – 2021
 
 # 🎯 Research Interests
 
