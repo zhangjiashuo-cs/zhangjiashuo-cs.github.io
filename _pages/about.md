@@ -113,7 +113,6 @@ My research interests include:
 ## Conference
 
 - PC Member, APSEC 2026 (ERA Track)
-- Shadow PC Member, ICSE 2027
 - PC Member - Artifact Evaluation, ASPLOS 2025
 - PC Member - Junior PC, MSR 2025
 - PC Member, APSEC 2025
